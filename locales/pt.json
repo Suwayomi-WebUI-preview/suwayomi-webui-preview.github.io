@@ -1,0 +1,314 @@
+{
+    "chapter": {
+        "action": {
+            "bookmark": {
+                "remove": {
+                    "label": {
+                        "success_one": "Favorito removido do capítulo",
+                        "success_many": "{{count}} Favoritos removidos do capítulo",
+                        "success_other": "{{count}} Favoritos removidos do capítulo",
+                        "action": "Remover favorito",
+                        "error_one": "Erro ao remover dos favoritos",
+                        "error_many": "Erro ao remover dos favoritos",
+                        "error_other": "Erro ao remover dos favoritos"
+                    },
+                    "button": {
+                        "selected": "Remover favoritos dos selecionados"
+                    }
+                },
+                "add": {
+                    "label": {
+                        "success_one": "Capitulo Marcado",
+                        "success_many": "{{count}} Capítulos Marcados",
+                        "success_other": "{{count}} Capítulos Marcados",
+                        "action": "Adicionar favorito",
+                        "error_one": "Erro ao marcar o capitulo",
+                        "error_many": "Erro ao marcar os capítulos",
+                        "error_other": "Erro ao marcar os capítulos"
+                    },
+                    "button": {
+                        "selected": "Favorito selecionado"
+                    }
+                }
+            },
+            "label": {
+                "select": "Selecionar",
+                "open_on_source": "Abrir na fonte"
+            },
+            "mark_as_read": {
+                "add": {
+                    "label": {
+                        "success_one": "Capítulo marcado como lido",
+                        "success_many": "{{count}} Capítulos marcados como lido",
+                        "success_other": "{{count}} Capítulos marcados como lido",
+                        "action": {
+                            "current": "Marcar como lido",
+                            "previous": "Marcar capítulos anteriores como lidos"
+                        },
+                        "error_one": "Erro ao marcar o capitulo como lido",
+                        "error_many": "Erro ao marcar os capítulos como lidos",
+                        "error_other": "Erro ao marcar os capítulos como lidos"
+                    },
+                    "button": {
+                        "selected": "Marcar seleção como lida"
+                    }
+                },
+                "remove": {
+                    "button": {
+                        "selected": "Marcar seleção como não lida"
+                    },
+                    "label": {
+                        "action": "Marcar como não lido",
+                        "error_one": "Erro ao marcar o capitulo como não lido",
+                        "error_many": "Erro ao marcar os capítulos como não lidos",
+                        "error_other": "Erro ao marcar os capítulos como não lidos",
+                        "success_one": "Capitulo marcado como não lido",
+                        "success_many": "{{count}} Capítulos marcados como não lidos",
+                        "success_other": "{{count}} Capítulos marcados como não lidos"
+                    }
+                }
+            },
+            "download": {
+                "delete": {
+                    "button": {
+                        "selected": "Deletar seleção"
+                    },
+                    "label": {
+                        "action": "Deletar",
+                        "error_one": "Erro ao deletar o capitulo",
+                        "error_many": "Erro ao deletar os capitulos",
+                        "error_other": "Erro ao deletar os capitulos",
+                        "success_one": "Capitulo deletado",
+                        "success_many": "{{count}} Capítulos deletados",
+                        "success_other": "{{count}} Capítulos deletados"
+                    }
+                },
+                "add": {
+                    "button": {
+                        "selected": "Download selecionado"
+                    },
+                    "label": {
+                        "success_one": "Download adicionado",
+                        "success_many": "{{count}} Downloads Adicionados",
+                        "success_other": "{{count}} Downloads Adicionados",
+                        "error_one": "Erro ao adicionar o download",
+                        "error_many": "Erro ao adicionas os downloads",
+                        "error_other": "Erro ao adicionas os downloads",
+                        "action": "Baixado"
+                    }
+                }
+            }
+        },
+        "error": {
+            "label": {
+                "no_chapter_found": "Nenhum capítulo encontrado",
+                "no_matches": "Nenhum capítulo corresponde ao filtro"
+            }
+        },
+        "option": {
+            "display": {
+                "label": {
+                    "chapter_number": "Número do capítulo",
+                    "source_title": "Título da fonte"
+                }
+            }
+        },
+        "status": {
+            "label": {
+                "downloaded": "Baixado"
+            }
+        },
+        "title": "Capitulo"
+    },
+    "extension": {
+        "state": {
+            "label": {
+                "installed": "Instalada",
+                "updating": "atualizando",
+                "installing": "Instalando",
+                "uninstalling": "desinstalando",
+                "obsolete": "obsoleta",
+                "update_pending": "atualização pendente"
+            }
+        },
+        "action": {
+            "label": {
+                "install": "Instalar",
+                "uninstall": "desinstalar",
+                "update": "atualizar"
+            }
+        },
+        "label": {
+            "installed_successfully": "Extensão instalada com sucesso!",
+            "installing_file": "Instalando arquivo da extensão...",
+            "installation_failed": "Falha na instalação da extensão!"
+        },
+        "language": {
+            "all": "Todos",
+            "other": "Outros"
+        },
+        "title": "Extensões"
+    },
+    "category": {
+        "dialog": {
+            "title": {
+                "edit_category": "Editar catálogo",
+                "new_category": "Nova Categoria"
+            }
+        },
+        "error": {
+            "label": {
+                "empty": "A categoria está vazia",
+                "request_failure": "Não foi possível carregar as categorias"
+            },
+            "no_categories_found": {
+                "label": {
+                    "hint": "Deve fazer alguns partir das configurações.",
+                    "info": "Não foram encontradas categorias."
+                }
+            }
+        },
+        "label": {
+            "category_name": "Nome da categoria",
+            "use_as_default_category": "Categoria padrão quando adicionar um novo manga a biblioteca"
+        },
+        "title": {
+            "categories": "Categorias",
+            "set_categories": "Defina as categorias",
+            "category_one": "Categoria",
+            "category_many": "Categorias",
+            "category_other": "Categorias"
+        },
+        "settings": {
+            "inclusion": {
+                "label": {
+                    "include": "Incluir: {{includedCategoriesText}}",
+                    "exclude": "Excluir: {{excludedCategoriesText}}"
+                }
+            }
+        }
+    },
+    "global": {
+        "button": {
+            "browse": "Navegador",
+            "clear": "Limpar",
+            "open_site": "Abrir site",
+            "reset": "Reiniciar",
+            "reset_to_default": "Redefinir padrões",
+            "resume": "Resumo",
+            "select_all": "Selecionar todos",
+            "submit": "Enviar",
+            "latest": "Ultimo",
+            "ok": "Ok",
+            "filter": "Filtro",
+            "start": "Iniciar",
+            "cancel": "Cancelar"
+        },
+        "date": {
+            "label": {
+                "today_at": "Hoje {{timeString}}",
+                "yesterday": "Ontem",
+                "yesterday_at": "Ontem {{timeString}}",
+                "today": "Hoje"
+            }
+        },
+        "label": {
+            "display": "Tela"
+        },
+        "error": {
+            "label": {
+                "invalid_file_type": "Tipo de arquivo inválido!",
+                "invalid_action": "Essa não é uma ação válida",
+                "failed_to_load_data": "Não foi possível carregar os dados",
+                "failed_to_save_changes": "Falha ao salvar as alterações"
+            }
+        }
+    },
+    "download": {
+        "queue": {
+            "title": "Fila de downloads",
+            "label": {
+                "no_downloads": "Sem downloads",
+                "delete_all": "Deletar todos"
+            },
+            "error": {
+                "label": {
+                    "failed_to_remove": "Erro ao remover o download da fila.",
+                    "failed_delete_all": "Erro ao remover todos os downloads da fila"
+                }
+            }
+        },
+        "state": {
+            "label": {
+                "downloading": "Baixando",
+                "error": "Erro",
+                "finished": "Finalizado",
+                "queued": "Na fila"
+            }
+        },
+        "title": "Baixados",
+        "settings": {
+            "auto_download": {
+                "download_limit": {
+                    "label": {
+                        "description": "Limitar a quantidade de capítulos que serão baixados.",
+                        "title": "Limite de download de capítulo"
+                    }
+                },
+                "title": "Download automático",
+                "label": {
+                    "new_chapters": "Baixar novos capítulos",
+                    "ignore_with_unread_chapters": "Ignorar downloads automáticos de capítulos para entradas com capítulos não lidos"
+                },
+                "categories": {
+                    "label": {
+                        "include_in_download": "As entradas nas categorias excluídas não serão baixadas, mesmo que também estejam nas categorias incluídas"
+                    }
+                }
+            },
+            "delete_chapters": {
+                "while_reading": {
+                    "option": {
+                        "label": {
+                            "third": "Terceiro ao último capítulo lido",
+                            "first": "Último capítulo lido",
+                            "fifth": "Quinto ao último capítulo lido",
+                            "fourth": "Quarto ao último capítulo lido",
+                            "second": "Segundo ao último capítulo lido"
+                        }
+                    },
+                    "label": {
+                        "title": "Exclua capítulos concluídos durante a leitura"
+                    }
+                },
+                "label": {
+                    "allow_deletion_of_bookmarked": "Permitir exclusão de capítulos marcados como favoritos",
+                    "manually_marked_as_read": "Deletar o capítulo após marcá-lo manualmente como lido"
+                },
+                "title": "Deletar capítulos"
+            },
+            "download_ahead": {
+                "label": {
+                    "description": "Quantos capítulos devem ser baixados durante a leitura.",
+                    "unread_chapters_to_download": "Número de capítulos não lidos para download",
+                    "while_reading": "Download automático durante a leitura",
+                    "value": "{{chapters}} $t(chapter.title)",
+                    "disclaimer": "Só funciona se o capítulo atual e o próximo capítulo já tiverem sido baixados."
+                },
+                "title": "Baixe com antecedência"
+            },
+            "title": "Configurações de download",
+            "download_path": {
+                "label": {
+                    "title": "Local do download",
+                    "description": "O caminho do diretório no servidor onde os arquivos baixados devem ser salvos"
+                }
+            },
+            "file_type": {
+                "label": {
+                    "cbz": "Salvar como arquivo CDZ"
+                }
+            }
+        }
+    }
+}
