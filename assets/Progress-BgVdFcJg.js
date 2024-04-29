@@ -1,0 +1,1 @@
+import{j as s,B as r,C as a,T as i}from"./index-Zl59rTnr.js";const o=({progress:e})=>s.jsxs(r,{sx:{display:"grid",placeItems:"center",position:"relative"},children:[s.jsx(a,{variant:"determinate",value:e}),s.jsx(r,{sx:{position:"absolute"},children:s.jsx(i,{fontSize:"0.8rem",children:"".concat(Math.round(e),"%")})})]});export{o as P};
