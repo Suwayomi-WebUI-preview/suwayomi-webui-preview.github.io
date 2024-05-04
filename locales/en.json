@@ -505,6 +505,12 @@
               "title": "Cleanup database"
             }
           }
+        },
+        "duplicates": {
+          "label": {
+            "description": "Show all duplicated entries in your library",
+            "title": "Duplicated entries"
+          }
         }
       },
       "general": {
@@ -589,6 +595,16 @@
         }
       },
       "library": {
+        "add": {
+          "dialog": {
+            "duplicate": {
+              "label": {
+                "failure": "Could not check for duplicated manga in your library.\n\nError: {{error}}",
+                "info": "You have an entry in your library with the same name."
+              }
+            }
+          }
+        },
         "remove": {
           "button": {
             "selected": "Remove selected from the library"
