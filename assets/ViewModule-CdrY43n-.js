@@ -1,1 +1,0 @@
-import{r,i as t,j as a}from"./index-CcDVmPxM.js";var e={},u=t;Object.defineProperty(e,"__esModule",{value:!0});var o=e.default=void 0,i=u(r()),v=a;o=e.default=(0,i.default)((0,v.jsx)("path",{d:"M14.67 5v6.5H9.33V5zm1 6.5H21V5h-5.33zm-1 7.5v-6.5H9.33V19zm1-6.5V19H21v-6.5zm-7.34 0H3V19h5.33zm0-1V5H3v6.5z"}),"ViewModule");export{o as d};
