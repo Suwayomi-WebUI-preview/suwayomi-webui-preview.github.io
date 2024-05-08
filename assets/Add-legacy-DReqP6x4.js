@@ -1,0 +1,1 @@
+System.register(["./index-legacy-CRzu7QIv.js"],(function(e,t){"use strict";var d,r,u;return{setters:[function(e){d=e.r,r=e.i,u=e.j}],execute:function(){var t={},a=r;Object.defineProperty(t,"__esModule",{value:!0}),e("d",t.default=void 0);var i=a(d()),n=u;e("d",t.default=(0,i.default)((0,n.jsx)("path",{d:"M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6z"}),"Add"))}}}));

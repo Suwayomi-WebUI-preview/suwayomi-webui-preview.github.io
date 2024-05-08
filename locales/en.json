@@ -306,6 +306,7 @@
       "clear": "Clear",
       "copy": "Copy",
       "create": "Create",
+      "delete": "Delete",
       "deselect": "Deselect",
       "dont_show_dialog_again": "Don't show this dialog again",
       "edit": "Edit",
@@ -1116,6 +1117,20 @@
         "source_not_found": "Could not find source. Check your installed extensions."
       }
     },
+    "filter": {
+      "save_search": {
+        "dialog": {
+          "label": {
+            "delete": "This will delete the saved search \"{{name}}\"",
+            "title": "Save current search"
+          }
+        },
+        "label": {
+          "delete": "Delete search",
+          "save": "Save search"
+        }
+      }
+    },
     "local_source": {
       "label": {
         "checkout": "Check out",
@@ -1153,7 +1168,7 @@
     "my_anime_list": {
       "search": {
         "label": {
-          "hint": "Search for a ID via \"id:<ID>\" (e.g. \"id:13\")\nLimit search to your lists via \"my:<Title>\" (e.g. \"my:One Piece\""
+          "hint": "Search for a ID via \"id:<ID>\" (e.g. \"id:13\")\nLimit search to your lists via \"my:<Title>\" (e.g. \"my:One Piece\")"
         }
       }
     },
