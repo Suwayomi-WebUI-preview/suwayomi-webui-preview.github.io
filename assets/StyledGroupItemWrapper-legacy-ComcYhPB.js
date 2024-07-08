@@ -1,1 +1,0 @@
-System.register(["./index-legacy-W1i1DJ1p.js"],(function(t,e){"use strict";var n,r;return{setters:[function(t){n=t.s,r=t.B}],execute:function(){t("S",n(r,{shouldForwardProp:function(t){return"isLastItem"!==t}})((function(t){return{padding:"0 10px",paddingBottom:t.isLastItem?"0":"10px"}})))}}}));
