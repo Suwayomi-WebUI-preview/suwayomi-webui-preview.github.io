@@ -1,0 +1,1 @@
+System.register(["./index-legacy-C7H17NC4.js"],(function(e,t){"use strict";var r,i,u;return{setters:[function(e){r=e.r,i=e.i,u=e.j}],execute:function(){var t={},d=i;Object.defineProperty(t,"__esModule",{value:!0}),e("d",t.default=void 0);var s=d(r()),a=u;e("d",t.default=(0,s.default)((0,a.jsx)("path",{d:"M10 18h4v-2h-4zM3 6v2h18V6zm3 7h12v-2H6z"}),"FilterList"))}}}));
