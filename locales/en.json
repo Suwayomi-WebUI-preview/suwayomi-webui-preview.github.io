@@ -366,6 +366,7 @@
       "label": {
         "bookmarked": "Bookmarked",
         "downloaded": "Downloaded",
+        "duplicate_chapters": "Duplicate chapters",
         "tracked": "Tracked",
         "unread": "Unread"
       }
@@ -951,6 +952,12 @@
             "label": {
               "description": "See <2>FlareSolverr</2> for information on how to set it up",
               "title": "FlareSolverr enabled"
+            }
+          },
+          "response_fallback": {
+            "label": {
+              "description": "Use the FlareSolverr response in case the server runs into a Cloudflare challenge while FlareSolverr does not and is therefore unable to solve the challenge (does not work for images)",
+              "title": "Response fallback"
             }
           },
           "session": {
