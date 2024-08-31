@@ -1,1 +1,0 @@
-import{c as e,j as t,b as a,S as n}from"./index-aRdpybDP.js";const i=e.forwardRef(({children:r,...o},s)=>t.jsx(a,{ref:s,...o,children:t.jsx(n,{direction:"row",alignItems:"center",justifyContent:"center",gap:1,flexWrap:"wrap",children:r})}));export{i as C};
