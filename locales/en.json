@@ -386,6 +386,7 @@
       "client": "Client",
       "close": "Close",
       "copied": "Copied",
+      "default": "Default",
       "disabled": "Disabled",
       "discord": "Discord",
       "display": "Display",
@@ -816,6 +817,22 @@
         }
       }
     },
+    "appearance": {
+      "device_theme": "Device theme",
+      "pure_black_mode": "Pure black dark mode",
+      "theme": "Theme",
+      "themes": {
+        "crimson": "Crimson",
+        "dune": "Dune",
+        "forest_dew": "Forest dew",
+        "lavendar": "Lavendar",
+        "minty_miracles": "Minty Miracles",
+        "mountain_sunset": "Mountain sunset",
+        "orange_juice": "Orange juice",
+        "rosegold": "Rosegold"
+      },
+      "title": "Appearance"
+    },
     "backup": {
       "action": {
         "create": {
@@ -909,12 +926,12 @@
       }
     },
     "label": {
-      "dark_theme": "Dark theme",
       "hide_library_entries": "Hide entries already in library",
       "language_description": "Feel free to translate the project on",
       "manga_item_width": "Manga item width",
       "show_nsfw": "Show NSFW",
-      "show_nsfw_description": "Hide NSFW extensions and sources"
+      "show_nsfw_description": "Hide NSFW extensions and sources",
+      "theme": "Theme"
     },
     "server": {
       "address": {
@@ -997,6 +1014,20 @@
         }
       },
       "misc": {
+        "log_files": {
+          "file_cleanup": {
+            "title": "Log file cleanup",
+            "value": "Delete backups that are older than $t(global.date.value.label.day)"
+          },
+          "file_size": {
+            "description": "Example for possible values: 1 (bytes), 1KB (kilobytes), 1MB (megabytes), 1GB (gigabytes)",
+            "title": "Maximum log file size"
+          },
+          "total_size": {
+            "description": "$t(settings.server.misc.log_files.file_size.description)",
+            "title": "Maximum size of all log files"
+          }
+        },
         "log_level": {
           "graphql": {
             "label": {
