@@ -1,1 +1,0 @@
-import{j as o}from"./index-iYBf07xu.js";import{S as r}from"./TextField-Bx_wAbM4.js";const a=({children:e,maxSelectionHeightPx:s=250,...t})=>o.jsx(r,{MenuProps:{PaperProps:{style:{maxHeight:s}}},...t,children:e});export{a as S};
