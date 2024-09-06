@@ -1,1 +1,0 @@
-import{j as s,B as r,a3 as t,T as i}from"./index-C_yYuRh4.js";const n=({progress:e,showText:a=!0})=>s.jsxs(r,{sx:{display:"grid",placeItems:"center",position:"relative"},children:[s.jsx(t,{variant:"determinate",value:e}),a&&s.jsx(r,{sx:{position:"absolute"},children:s.jsx(i,{sx:{fontSize:"0.8rem"},children:"".concat(Math.round(e),"%")})})]});export{n as P};
