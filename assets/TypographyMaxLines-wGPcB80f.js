@@ -1,1 +1,0 @@
-import{cy as r,T as o}from"./index-DRMCCeoY.js";const a=r(o,{shouldForwardProp:e=>e!=="lines"})(({lines:e=2})=>({lineHeight:"1.5rem",maxHeight:"3rem",display:"-webkit-box",WebkitLineClamp:"".concat(e),WebkitBoxOrient:"vertical",overflow:"hidden",textOverflow:"ellipsis",overflowWrap:"break-word"}));export{a as T};
