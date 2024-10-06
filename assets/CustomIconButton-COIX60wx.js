@@ -1,0 +1,1 @@
+import{c as e,j as t,b as a,S as n}from"./index-9T0dGC6a.js";const x=e.forwardRef(({children:r,...s},o)=>t.jsx(a,{ref:o,...s,children:t.jsx(n,{direction:"row",sx:{alignItems:"center",justifyContent:"center",gap:1,flexWrap:"wrap"},children:r})}));export{x as C};
