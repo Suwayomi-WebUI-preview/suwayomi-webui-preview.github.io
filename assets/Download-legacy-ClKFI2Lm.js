@@ -1,1 +1,0 @@
-System.register(["./index-legacy-0YswRLnn.js"],(function(e,t){"use strict";var r,d,u;return{setters:[function(e){r=e.r,d=e.i,u=e.j}],execute:function(){var t={},a=d;Object.defineProperty(t,"__esModule",{value:!0}),e("d",t.default=void 0);var n=a(r()),i=u;e("d",t.default=(0,n.default)((0,i.jsx)("path",{d:"M5 20h14v-2H5zM19 9h-4V3H9v6H5l7 7z"}),"Download"))}}}));
