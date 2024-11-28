@@ -1,1 +1,0 @@
-import{cB as r,T as i}from"./index-jDC7h8fO.js";const a=e=>o=>!e.includes(o),t=r(i,{shouldForwardProp:a(["lines"])})(({lines:e=2})=>({lineHeight:"1.5rem",maxHeight:"".concat(3*e,"rem"),display:"-webkit-box",WebkitLineClamp:"".concat(e),WebkitBoxOrient:"vertical",overflow:"hidden",textOverflow:"ellipsis",overflowWrap:"break-word"}));export{t as T,a as s};
