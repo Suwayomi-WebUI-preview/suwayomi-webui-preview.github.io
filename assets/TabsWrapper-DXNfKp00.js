@@ -1,0 +1,1 @@
+import{p as e,j as r,B as o}from"./index-BAnR_7S5.js";const p=({children:t,...s})=>{const{appBarHeight:a}=e();return r.jsx(o,{...s,sx:{...s.sx,position:"relative",height:"calc(100% - ".concat(a,"px)")},children:t})};export{p as T};
