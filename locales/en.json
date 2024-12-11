@@ -323,6 +323,7 @@
       "log_out": "Log out",
       "migrate": "Migrate",
       "ok": "Ok",
+      "open": "Open",
       "open_site": "Open Site",
       "options": "Options",
       "popular": "Popular",
@@ -804,6 +805,21 @@
       "previous_page": "Previous page",
       "retry_load_pages": "Retry errored pages"
     },
+    "chapter_transition": {
+      "warning": {
+        "next": {
+          "chapter_number_one": "There is one missing chapter.\nCurrent: {{currentChapter}}\nNext: {{nextChapter}}",
+          "chapter_number_other": "There are {{count}} missing chapters.\nCurrent: {{currentChapter}}\nNext: {{nextChapter}}",
+          "scanlator": "The next chapter has a different scanlator then the current one.\nCurrent: {{currentScanlator}}\nNext: {{nextScanlator}}"
+        },
+        "previous": {
+          "chapter_number_one": "There is one missing chapter.\nPrevious: {{nextChapter}}\nCurrent: {{currentChapter}}",
+          "chapter_number_other": "There are {{count}} missing chapters.\nPrevious: {{nextChapter}}\nCurrent: {{currentChapter}}",
+          "scanlator": "The previous chapter has a different scanlator then the current one.\nPrevious: {{nextScanlator}}\nCurrent: {{currentScanlator}}"
+        },
+        "title": "Chapter transition warning"
+      }
+    },
     "error": {
       "label": {
         "chapter_not_found": "Chapter does not exist",
@@ -840,7 +856,6 @@
       },
       "error": {
         "label": {
-          "failed_to_save_default_settings": "Could not save the default reader settings to the server",
           "failed_to_save_settings": "Could not save the reader settings to the server"
         }
       },
@@ -852,6 +867,7 @@
         "offset_spread_pages": "Toggle offset spread pages",
         "previous_chapter": "Previous chapter",
         "previous_page": "Previous page",
+        "profiles": "Cycle profiles",
         "scale_type": "Cycle image scale type",
         "scroll_backward": "Scroll backward",
         "scroll_forward": "Scroll forward",
@@ -915,7 +931,6 @@
         "title": "Tap zones"
       },
       "title": {
-        "default_reader_settings": "Default Reader Settings",
         "reader_settings": "Reader Settings"
       }
     },
