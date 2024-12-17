@@ -430,8 +430,6 @@
       "password": "Password",
       "placeholder": "Placeholder",
       "previous": "Previous",
-      "profile_one": "Profile",
-      "profile_other": "Profiles",
       "right": "Right",
       "share": "Share",
       "sort": "Sort",
@@ -871,7 +869,6 @@
         "offset_spread_pages": "Toggle offset spread pages",
         "previous_chapter": "Previous chapter",
         "previous_page": "Previous page",
-        "profiles": "Cycle profiles",
         "scale_type": "Cycle image scale type",
         "scroll_backward": "Scroll backward",
         "scroll_forward": "Scroll forward",
@@ -890,7 +887,6 @@
         "reader_width": "Reader width",
         "reading_direction": "Reading direction",
         "reading_mode": "Reading mode",
-        "scale_page": "Scale small pages",
         "show_page_number": "Show page number",
         "skip_dup_chapters": "Skip duplicate chapters",
         "static_navigation": "Static navigation"
@@ -903,10 +899,6 @@
         "stretch": "Stretch small pages",
         "title": "Scale type",
         "width": "Fit width"
-      },
-      "profiles": {
-        "description": "Profiles are used to define the default reader settings which then can be used for series and reading modes",
-        "placeholder": "Comics | length: 16, chars: letters, numbers, -, _"
       },
       "progress_bar": {
         "position": "Progress bar position",
@@ -1001,7 +993,7 @@
             },
             "info": {
               "creating_theme": "Create a custom theme with the <2>MUI Theme Creator</2>, copy everything after \"themeOptions\" from \"{\" to \"}\" and paste it into the \"theme\" text field.",
-              "theme_mode_lock": "In case \"mode\" or \"type\" is defined in the \"palette\" object, the theme will be locked into this mode and will not change regardless of the selected apps device theme"
+              "theme_mode_lock": "In case \"mode\" or \"type\" is defined in the \"palette\" object, the theme will be locked into this mode and will not change regardless of the selected apps theme mode"
             },
             "theme_name": "Name"
           },
@@ -1014,7 +1006,7 @@
           "failure": "Could not delete theme \"{{theme}}\"",
           "success": "Deleted theme \"{{theme}}\""
         },
-        "device_theme": "Device theme",
+        "mode": "Theme mode",
         "edit": {
           "action": "Saving theme changes…",
           "failure": "Could not save theme changes",
