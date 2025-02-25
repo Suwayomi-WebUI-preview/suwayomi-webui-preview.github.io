@@ -1,0 +1,1 @@
+System.register(["./index-legacy-BcVJ0LPb.js"],(function(e,t){"use strict";var s,n;return{setters:[function(e){s=e.c,n=e.j}],execute:function(){e("a",s(n.jsx("path",{d:"m12 8-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z"}),"ExpandLess")),e("E",s(n.jsx("path",{d:"M16.59 8.59 12 13.17 7.41 8.59 6 10l6 6 6-6z"}),"ExpandMore"))}}}));
