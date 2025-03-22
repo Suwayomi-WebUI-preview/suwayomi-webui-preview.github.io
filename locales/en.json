@@ -242,7 +242,7 @@
     },
     "title": {
       "download": "Downloads",
-      "queue": "Downloads queue"
+      "queue": "Download queue"
     }
   },
   "extension": {
@@ -519,6 +519,9 @@
       "label": {
         "no_history_available": "You have not read any series yet."
       }
+    },
+    "settings": {
+      "hide": "Hide history"
     },
     "title": "History"
   },
