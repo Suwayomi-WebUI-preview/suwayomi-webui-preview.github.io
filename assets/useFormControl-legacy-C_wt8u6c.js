@@ -1,0 +1,1 @@
+System.register(["./index-legacy-CnpjmUE3.js"],(function(e,t){"use strict";var n;return{setters:[function(e){n=e.g}],execute:function(){e("u",(function(){return n.useContext(t)}));var t=e("F",n.createContext(void 0))}}}));
