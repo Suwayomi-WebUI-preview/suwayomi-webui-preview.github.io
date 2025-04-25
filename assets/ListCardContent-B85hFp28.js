@@ -1,0 +1,1 @@
+import{j as a}from"./index-aZAYJyS4.js";import{C as e}from"./CardContent-588ia9mS.js";const r=({children:s,...t})=>a.jsx(e,{...t,sx:{display:"flex",alignItems:"center",gap:1,p:1.5,...t.sx},children:s});export{r as L};
