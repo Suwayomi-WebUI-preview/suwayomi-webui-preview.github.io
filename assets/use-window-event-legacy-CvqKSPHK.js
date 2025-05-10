@@ -1,1 +1,0 @@
-System.register(["./index-legacy-DnnJI9yx.js"],(function(e,n){"use strict";var t;return{setters:[function(e){t=e.d}],execute:function(){e("u",(function(e,n,r){t.useEffect((function(){return window.addEventListener(e,n,r),function(){return window.removeEventListener(e,n,r)}}),[e,n])}))}}}));

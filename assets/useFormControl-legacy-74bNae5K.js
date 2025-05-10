@@ -1,1 +1,0 @@
-System.register(["./index-legacy-DnnJI9yx.js"],(function(e,t){"use strict";var n;return{setters:[function(e){n=e.d}],execute:function(){e("u",(function(){return n.useContext(t)}));var t=e("F",n.createContext(void 0))}}}));
