@@ -429,6 +429,7 @@
       "horizontal": "Horizontal",
       "info": "Information",
       "large": "Large",
+      "last_used": "Last used",
       "left": "Left",
       "light": "Light",
       "links": "Links",
@@ -445,6 +446,7 @@
       "open_in_browser": "Open in browser",
       "other": "Other",
       "password": "Password",
+      "pinned": "Pinned",
       "placeholder": "Placeholder",
       "previous": "Previous",
       "right": "Right",
@@ -1043,6 +1045,9 @@
         "source_search_failed": "Could not search source"
       }
     },
+    "filter": {
+      "has_results": "Has results"
+    },
     "title": {
       "global_search": "Global Search",
       "search": "Search"
@@ -1484,6 +1489,10 @@
         "guide": "Local source guide"
       },
       "title": "Local source"
+    },
+    "pin": {
+      "add": "Pin source",
+      "remove": "Unpin source"
     },
     "title_one": "Source",
     "title_other": "Sources"
