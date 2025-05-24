@@ -1,1 +1,0 @@
-System.register(["./index-legacy-Dd7rH95R.js"],(function(e,n){"use strict";var t;return{setters:[function(e){t=e.e}],execute:function(){e("u",(function(e,n,r){t.useEffect((function(){return window.addEventListener(e,n,r),function(){return window.removeEventListener(e,n,r)}}),[e,n])}))}}}));
