@@ -1,1 +1,0 @@
-System.register(["./useAppTitle-legacy--go1IAgp.js","./useAppAction-legacy-7Fcvc5_x.js"],(function(e,t){"use strict";var u,n;return{setters:[function(e){u=e.u},function(e){n=e.u}],execute:function(){e("u",(function(e,t,c){u(e),n(t,c)}))}}}));
