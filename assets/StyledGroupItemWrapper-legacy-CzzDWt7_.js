@@ -1,0 +1,1 @@
+System.register(["./index-legacy-BDqoyjkR.js"],(function(e,t){"use strict";var n,i,r;return{setters:[function(e){n=e.e,i=e.W,r=e.o}],execute:function(){e("S",n.memo(i(r)((function(e){return{padding:e.theme.spacing(0,1,1,1)}}))))}}}));
