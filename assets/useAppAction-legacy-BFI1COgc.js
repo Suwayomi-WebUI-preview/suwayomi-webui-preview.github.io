@@ -1,1 +1,0 @@
-System.register(["./index-legacy-BDqoyjkR.js"],(function(t,e){"use strict";var n,u;return{setters:[function(t){n=t.p,u=t.e}],execute:function(){t("u",(function(t){var e=arguments.length>1&&void 0!==arguments[1]?arguments[1]:[],r=n().setAction;u.useEffect((function(){return r(t),function(){return r(null)}}),e)}))}}}));
