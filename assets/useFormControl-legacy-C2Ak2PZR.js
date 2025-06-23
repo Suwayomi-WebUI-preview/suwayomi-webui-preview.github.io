@@ -1,0 +1,1 @@
+System.register(["./index-legacy-CS_m1mBk.js"],(function(e,t){"use strict";var n;return{setters:[function(e){n=e.b}],execute:function(){e("u",(function(){return n.useContext(t)}));var t=e("F",n.createContext(void 0))}}}));
