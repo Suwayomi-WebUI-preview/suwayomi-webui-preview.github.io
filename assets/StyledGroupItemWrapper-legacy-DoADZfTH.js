@@ -1,0 +1,1 @@
+System.register(["./index-legacy-BtfD04wo.js"],(function(e,t){"use strict";var n,i,r;return{setters:[function(e){n=e.b,i=e.$,r=e.w}],execute:function(){e("S",n.memo(i(r)((function(e){return{padding:e.theme.spacing(0,1,1,1)}}))))}}}));
