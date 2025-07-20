@@ -1,0 +1,1 @@
+System.register(["./index-legacy-D88yqlTr.js"],function(e,t){"use strict";var n,i,r;return{setters:[function(e){n=e.b,i=e.a0,r=e.w}],execute:function(){e("S",n.memo(i(r)(function(e){return{padding:e.theme.spacing(0,1,1,1)}})))}}});
