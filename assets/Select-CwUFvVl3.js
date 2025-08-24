@@ -1,1 +1,0 @@
-import{j as o}from"./index-CUORAuCK.js";import{S as r}from"./TextField-BGQ3si0_.js";const a=({children:e,maxSelectionHeightPx:s=250,...t})=>o.jsx(r,{MenuProps:{PaperProps:{style:{maxHeight:s}}},...t,children:e});export{a as S};
