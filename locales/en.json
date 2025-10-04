@@ -1192,8 +1192,12 @@
     "backup": {
       "action": {
         "create": {
+          "error": {
+            "failure": "Could not create backup"
+          },
           "label": {
             "description": "Back up library as a Tachiyomi backup",
+            "in_progress": "Creating backup…",
             "title": "Create backup"
           }
         },
@@ -1246,6 +1250,19 @@
             "title": "Backup location"
           }
         }
+      },
+      "flag": {
+        "categories": "Categories",
+        "chapters": "Chapters",
+        "client_data": "Client data",
+        "group": {
+          "library": "Library",
+          "settings": "Settings"
+        },
+        "history": "History",
+        "manga": "Manga",
+        "server_settings": "Server settings",
+        "tracking": "Tracking"
       },
       "title": "Backup"
     },
