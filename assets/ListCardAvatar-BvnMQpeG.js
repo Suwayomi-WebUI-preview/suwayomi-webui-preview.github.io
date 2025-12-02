@@ -1,1 +1,0 @@
-import{j as o}from"./index-XiA-10qq.js";import{A as s}from"./AvatarSpinner-C6uIxQ5Q.js";const i=r=>{var t;const{slots:a}=r;return o.jsx(s,{...r,slots:{...a,avatarProps:{...a==null?void 0:a.avatarProps,sx:{width:56,height:56,flex:"0 0 auto",background:"transparent",...(t=a==null?void 0:a.avatarProps)==null?void 0:t.sx}}}})};export{i as L};
