@@ -1,1 +1,0 @@
-import{j as n,b as c,T as e}from"./index-ogzEquCo.js";const i=({title:d,value:j,stackProps:x,titleProps:a,valueProps:m})=>n.jsxs(c,{...x,sx:{flexDirection:"row",columnGap:1,flexWrap:"wrap",alignItems:"baseline",...x==null?void 0:x.sx},children:[n.jsx(e,{...a,sx:{color:"text.secondary",...a==null?void 0:a.sx},children:d}),n.jsx(e,{...m,children:j})]});export{i as M};
