@@ -1,1 +1,0 @@
-System.register(["./index-legacy-MF4v4Raw.js"],function(t,n){"use strict";var e,u;return{setters:[function(t){e=t.H,u=t.f}],execute:function(){t("u",function(t){var n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:[],r=e().setAction;u.useEffect(function(){return r(t),function(){return r(null)}},n)})}}});
