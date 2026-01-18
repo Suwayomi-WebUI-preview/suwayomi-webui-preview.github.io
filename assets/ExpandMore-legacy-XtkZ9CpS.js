@@ -1,1 +1,0 @@
-System.register(["./index-legacy-Dl8MEdEH.js"],function(t,e){"use strict";var s,n;return{setters:[function(t){s=t.c,n=t.j}],execute:function(){t("E",s(n.jsx("path",{d:"m12 8-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z"}))),t("a",s(n.jsx("path",{d:"M16.59 8.59 12 13.17 7.41 8.59 6 10l6 6 6-6z"})))}}});
