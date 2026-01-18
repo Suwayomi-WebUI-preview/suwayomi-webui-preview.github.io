@@ -1,0 +1,1 @@
+System.register(["./index-legacy-CmKAsq8e.js"],function(t,e){"use strict";var n,u;return{setters:[function(t){n=t.J,u=t.f}],execute:function(){t("u",function(t,e){var i=arguments.length>2&&void 0!==arguments[2]?arguments[2]:[t,e],r=n().setTitle;u.useLayoutEffect(function(){return"string"==typeof e?r(t,e):r(t),function(){r("")}},i)})}}});
