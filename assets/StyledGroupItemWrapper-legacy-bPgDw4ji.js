@@ -1,0 +1,1 @@
+System.register(["./index-legacy-B-h305iH.js"],function(e,t){"use strict";var n,i,r;return{setters:[function(e){n=e.f,i=e.Y,r=e.H}],execute:function(){e("S",n.memo(i(r)(function(e){return{padding:e.theme.spacing(0,1,1,1)}})))}}});
