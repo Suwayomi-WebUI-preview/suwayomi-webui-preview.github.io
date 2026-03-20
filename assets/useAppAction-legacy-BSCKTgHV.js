@@ -1,0 +1,1 @@
+System.register(["./index-legacy-C564OB1T.js","./Base.constants-legacy-DrPI2_iC.js"],function(n,t){"use strict";var e,u,c;return{setters:[function(n){e=n.J,u=n.f},function(n){c=n.S}],execute:function(){n("u",function(n){var t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:c,s=e().setAction;u.useEffect(function(){return s(n),function(){return s(null)}},t)})}}});
