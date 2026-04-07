@@ -1,1 +1,0 @@
-System.register(["./index-legacy-DrC5EYp8.js"],function(e,t){"use strict";var n,i,r;return{setters:[function(e){n=e.h,i=e.Z,r=e.J}],execute:function(){e("S",n.memo(i(r)(function(e){return{padding:e.theme.spacing(0,1,1,1)}})))}}});
