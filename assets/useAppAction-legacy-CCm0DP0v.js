@@ -1,0 +1,1 @@
+System.register(["./index-legacy-DPKmvkix.js"],function(t,n){"use strict";var e,u,r;return{setters:[function(t){e=t.f,u=t.K,r=t.h}],execute:function(){t("u",function(t){var n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:e,c=u().setAction;r.useEffect(function(){return c(t),function(){return c(null)}},n)})}}});
