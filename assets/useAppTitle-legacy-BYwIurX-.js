@@ -1,0 +1,1 @@
+System.register(["./index-legacy-B4inBOLj.js"],function(t,e){"use strict";var n,u;return{setters:[function(t){n=t.K,u=t.h}],execute:function(){t("u",function(t,e){var i=arguments.length>2&&void 0!==arguments[2]?arguments[2]:[t,e],r=n().setTitle;u.useLayoutEffect(function(){return"string"==typeof e?r(t,e):r(t),function(){r("")}},i)})}}});
