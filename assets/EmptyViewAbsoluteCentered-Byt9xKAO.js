@@ -1,0 +1,1 @@
+import{W as e,us as t}from"./index-BtZc6NPa.js";var n=t();function r({sx:t,...r}){return(0,n.jsx)(e,{...r,sx:{position:`absolute`,minHeight:`fill-available`,...t}})}export{r as t};
