@@ -1,1 +1,0 @@
-import{Pa as e,us as t}from"./index-DEnfx8_f.js";var n=e((0,t().jsx)(`path`,{d:`M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6z`}),`Add`);export{n as t};

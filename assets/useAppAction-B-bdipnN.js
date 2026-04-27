@@ -1,0 +1,1 @@
+import{r as e}from"./chunk-CilyBKbf.js";import{Gt as t,ls as n,ut as r}from"./index-RDgjChEo.js";var i=e(n(),1),a=(e,n=r)=>{let{setAction:a}=t();(0,i.useEffect)(()=>(a(e),()=>a(null)),n)};export{a as t};
