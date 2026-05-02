@@ -1,19 +1,10 @@
 <!doctype html>
 <html>
     <head>
+      <base href="/">
+
       <script type="module" crossorigin src="./assets/polyfills-CIZ8S9I9.js"></script>
 
-        <script>
-            (() => {
-                if (document.querySelector('base')) {
-                    return;
-                }
-
-                const base = document.createElement('base');
-                base.href = '/';
-                document.head.prepend(base);
-            })();
-        </script>
         <title>Suwayomi</title>
         <meta name="apple-mobile-web-app-title" content="Suwayomi" />
         <meta name="description" content="A manga reader that runs tachiyomi's extensions" />
