@@ -1,0 +1,1 @@
+System.register(["./chunk-legacy-BXzaEJqc.js","./index-legacy-CMYXkGU5.js"],function(e,n){var t,r,c;return e("t",function(e,n,t){var r=(0,c.useEffectEvent)(n);(0,c.useEffect)(function(){return window.addEventListener(e,r,t),function(){return window.removeEventListener(e,r,t)}},[e])}),{setters:[function(e){t=e.r},function(e){r=e.cs}],execute:function(){c=t(r(),1)}}});

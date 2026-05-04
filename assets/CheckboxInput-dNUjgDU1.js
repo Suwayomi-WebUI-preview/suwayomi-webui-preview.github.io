@@ -1,0 +1,1 @@
+import{ls as e}from"./index-BFgl-yAN.js";import{n as t,t as n}from"./FormControlLabel-cX87rc67.js";var r=e(),i=({label:e,sx:i,...a})=>(0,r.jsx)(n,{control:(0,r.jsx)(t,{...a}),label:e,sx:i});export{i as t};
