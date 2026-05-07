@@ -1,0 +1,1 @@
+import{Na as e,ls as t}from"./index-DwgxizTr.js";var n=e((0,t().jsx)(`path`,{d:`M8 5v14l11-7z`}),`PlayArrow`);export{n as t};
