@@ -1,0 +1,1 @@
+System.register(["./chunk-legacy-BXzaEJqc.js","./index-legacy-gUITvWgR.js"],function(e,n){var t,c,i,o,r;return{setters:[function(e){t=e.r},function(e){c=e.cs,i=e.go,o=e.oo}],execute:function(){r=t(c(),1),e("t",(0,r.memo)(i(o)(function(e){return{padding:e.theme.spacing(0,1,1,1)}})))}}});
