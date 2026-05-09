@@ -1,0 +1,1 @@
+import{r as e}from"./chunk-CilyBKbf.js";import{cs as t,go as n,oo as r}from"./index-3qfYldNS.js";var i=(0,e(t(),1).memo)(n(r)(({theme:e})=>({padding:e.spacing(0,1,1,1)})));export{i as t};
