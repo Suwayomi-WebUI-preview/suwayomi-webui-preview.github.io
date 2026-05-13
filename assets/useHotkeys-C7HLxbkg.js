@@ -1,0 +1,1 @@
+import{qa as e}from"./index-CKDLc61b.js";var t=(...t)=>{let[n,r,i,a]=t;return e(n,r,{preventDefault:!0,useKey:!0,...i},a)};export{t};

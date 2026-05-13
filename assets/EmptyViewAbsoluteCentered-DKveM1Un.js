@@ -1,1 +1,0 @@
-import{U as e,us as t}from"./index-Bv584GP3.js";var n=t();function r({sx:t,...r}){return(0,n.jsx)(e,{...r,sx:{position:`absolute`,minHeight:`fill-available`,...t}})}export{r as t};
