@@ -1,0 +1,1 @@
+System.register(["./index-legacy-DqPTmEm4.js"],function(t,e){var n,s,c,u,i;return{setters:[function(t){n=t.Gt,s=t._s,c=t.ps,u=t.ut}],execute:function(){i=s(c(),1),t("t",(t,e=u)=>{const{setAction:s}=n();(0,i.useEffect)(()=>(s(t),()=>s(null)),e)})}}});

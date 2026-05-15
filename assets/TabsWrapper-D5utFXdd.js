@@ -1,0 +1,1 @@
+import{ms as e,so as t}from"./index-xU4csw-d.js";var n=e(),r=({children:e,...r})=>(0,n.jsx)(t,{...r,sx:{...r.sx,position:`relative`,height:`100%`},children:e});export{r as t};

@@ -1,0 +1,1 @@
+System.register(["./index-legacy-DqPTmEm4.js","./FormControlLabel-legacy-tsYXQ7u5.js"],function(e,t){var n,s,l,o;return{setters:[function(e){n=e.ms},function(e){s=e.n,l=e.t}],execute:function(){o=n(),e("t",({label:e,sx:t,...n})=>(0,o.jsx)(l,{control:(0,o.jsx)(s,{...n}),label:e,sx:t}))}}});
