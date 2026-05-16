@@ -1,0 +1,1 @@
+import{Kt as e,bs as t,gs as n}from"./index-D2-CjLL2.js";var r=t(n(),1);function i(t,n,i=[t,n]){let{setTitle:a}=e();(0,r.useLayoutEffect)(()=>(typeof n==`string`?a(t,n):a(t),()=>{a(``)}),i)}export{i as t};

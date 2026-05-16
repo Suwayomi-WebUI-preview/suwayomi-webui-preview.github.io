@@ -1,1 +1,0 @@
-System.register(["./index-legacy-DqPTmEm4.js"],function(e,t){var n,s,i,c,o;return{setters:[function(e){n=e._s,s=e.ps,i=e.so,c=e.yo}],execute:function(){o=n(s(),1),e("t",(0,o.memo)(c(i)(({theme:e})=>({padding:e.spacing(0,1,1,1)}))))}}});

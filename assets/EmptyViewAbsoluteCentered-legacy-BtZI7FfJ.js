@@ -1,1 +1,0 @@
-System.register(["./index-legacy-DqPTmEm4.js"],function(e,t){var n,i,s;return e("t",function({sx:e,...t}){return(0,s.jsx)(n,{...t,sx:{position:"absolute",minHeight:"fill-available",...e}})}),{setters:[function(e){n=e.W,i=e.ms}],execute:function(){s=i()}}});
