@@ -1,0 +1,1 @@
+System.register(["./index-legacy-Dv2kLAd9.js"],function(e,t){var n,s,r;return{setters:[function(e){n=e.bs,s=e.gs}],execute:function(){r=n(s(),1),e("t",(e,t)=>{const[n,s]=(0,r.useState)(e);return(0,r.useEffect)(()=>{const n=setTimeout(()=>{s(e)},t);return()=>{clearTimeout(n)}},[e,t]),n})}}});
