@@ -1,0 +1,1 @@
+System.register(["./index-legacy-BP0TZpUT.js"],function(e,t){var n,r,s;return{setters:[function(e){n=e.I,r=e._s}],execute:function(){s=r(),e("t",({children:e,maxSelectionHeightPx:t=250,...r})=>(0,s.jsx)(n,{MenuProps:{slotProps:{paper:{sx:{maxHeight:t}}}},...r,children:e}))}}});

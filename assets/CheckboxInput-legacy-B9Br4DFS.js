@@ -1,1 +1,0 @@
-System.register(["./index-legacy-CW8s2zW4.js","./FormControlLabel-legacy-BU_DHBW-.js"],function(e,t){var n,s,l,o;return{setters:[function(e){n=e._s},function(e){s=e.n,l=e.t}],execute:function(){o=n(),e("t",({label:e,sx:t,...n})=>(0,o.jsx)(l,{control:(0,o.jsx)(s,{...n}),label:e,sx:t}))}}});
