@@ -1,1 +1,0 @@
-System.register(["./index-legacy-Cw21-EWb.js"],function(t,e){var n,s,c,i;return t("t",function(t,e,s=[t,e]){const{setTitle:c}=n();(0,i.useLayoutEffect)(()=>("string"==typeof e?c(t,e):c(t),()=>{c("")}),s)}),{setters:[function(t){n=t.Kt,s=t.bs,c=t.gs}],execute:function(){i=s(c(),1)}}});

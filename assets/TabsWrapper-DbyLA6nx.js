@@ -1,0 +1,1 @@
+import{_s as e,uo as t}from"./index-PrfS-dT3.js";var n=e(),r=({children:e,...r})=>(0,n.jsx)(t,{...r,sx:{...r.sx,position:`relative`,height:`100%`},children:e});export{r as t};
