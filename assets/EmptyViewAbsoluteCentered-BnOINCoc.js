@@ -1,1 +1,0 @@
-import{G as e,_s as t}from"./index-PrfS-dT3.js";var n=t();function r({sx:t,...r}){return(0,n.jsx)(e,{...r,sx:{position:`absolute`,minHeight:`fill-available`,...t}})}export{r as t};

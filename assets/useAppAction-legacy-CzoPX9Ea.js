@@ -1,1 +1,0 @@
-System.register(["./index-legacy-OQWOUw_-.js"],function(t,e){var n,s,c,u,i;return{setters:[function(t){n=t.Kt,s=t.bs,c=t.dt,u=t.gs}],execute:function(){i=s(u(),1),t("t",(t,e=c)=>{const{setAction:s}=n();(0,i.useEffect)(()=>(s(t),()=>s(null)),e)})}}});

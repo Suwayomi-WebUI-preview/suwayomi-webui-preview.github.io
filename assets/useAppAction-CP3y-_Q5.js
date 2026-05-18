@@ -1,1 +1,0 @@
-import{Kt as e,bs as t,dt as n,gs as r}from"./index-PrfS-dT3.js";var i=t(r(),1),a=(t,r=n)=>{let{setAction:a}=e();(0,i.useEffect)(()=>(a(t),()=>a(null)),r)};export{a as t};
