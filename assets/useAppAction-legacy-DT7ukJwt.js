@@ -1,0 +1,1 @@
+System.register(["./index-legacy-Doc95NEo.js"],function(t,e){var n,s,c,u,i;return{setters:[function(t){n=t.Cs,s=t.Xt,c=t.ht,u=t.ys}],execute:function(){i=n(u(),1),t("t",(t,e=c)=>{const{setAction:n}=s();(0,i.useEffect)(()=>(n(t),()=>n(null)),e)})}}});
