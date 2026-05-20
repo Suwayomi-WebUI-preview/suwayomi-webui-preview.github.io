@@ -1,0 +1,1 @@
+import{Gi as e,bs as t,va as n}from"./index-CwSzPtJA.js";var r=t(),i=({title:t,value:i,stackProps:a,titleProps:o,valueProps:s})=>(0,r.jsxs)(e,{...a,sx:{flexDirection:`row`,columnGap:1,flexWrap:`wrap`,alignItems:`baseline`,...a?.sx},children:[(0,r.jsx)(n,{...o,sx:{color:`text.secondary`,...o?.sx},children:t}),(0,r.jsx)(n,{...s,children:i})]});export{i as t};

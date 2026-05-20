@@ -1,1 +1,0 @@
-import{t as e}from"./useAppTitle-Dkk9JRHN.js";import{t}from"./useAppAction-Daf_Hlpf.js";var n=(n,r,i)=>{e(n),t(r,i)};export{n as t};
