@@ -1,1 +1,0 @@
-import{Ba as e,bs as t}from"./index-5cecppe-.js";var n=e((0,t().jsx)(`path`,{d:`M5 20h14v-2H5zM19 9h-4V3H9v6H5l7 7z`}),`Download`);export{n as t};
