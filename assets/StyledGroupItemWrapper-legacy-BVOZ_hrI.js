@@ -1,0 +1,1 @@
+System.register(["./index-legacy-1sDVSSWx.js"],function(e,t){var n,s,i,c,o;return{setters:[function(e){n=e.Ss,s=e.To,i=e.po,c=e.ys}],execute:function(){o=n(c(),1),e("t",(0,o.memo)(s(i)(({theme:e})=>({padding:e.spacing(0,1,1,1)}))))}}});
