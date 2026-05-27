@@ -1,1 +1,0 @@
-import{bs as e,po as t}from"./index-dhCFR-Tj.js";var n=e(),r=({children:e,...r})=>(0,n.jsx)(t,{...r,sx:{...r.sx,position:`relative`,height:`100%`},children:e});export{r as t};

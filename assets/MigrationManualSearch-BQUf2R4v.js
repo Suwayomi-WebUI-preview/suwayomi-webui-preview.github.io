@@ -1,1 +1,0 @@
-import{bs as e,n as t}from"./index-dhCFR-Tj.js";import{SearchAll as n}from"./SearchAll-Dx0L17BI.js";var r=e(),i=()=>(0,r.jsx)(n,{migrationDestinationSourceIds:t.getState().destinationSourceIds});export{i as MigrationManualSearch};
