@@ -1,0 +1,1 @@
+import{Ss as e,Xt as t,ys as n}from"./index-JQvbixSD.js";var r=e(n(),1);function i(e,n,i=[e,n]){let{setTitle:a}=t();(0,r.useLayoutEffect)(()=>(typeof n==`string`?a(e,n):a(e),()=>{a(``)}),i)}export{i as t};

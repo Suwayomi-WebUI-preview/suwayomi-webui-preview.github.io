@@ -1,0 +1,1 @@
+System.register(["./index-legacy-BnEGTK8C.js"],function(e,t){var n,s,i;return e("t",function(e,t,n){const s=(0,i.useEffectEvent)(t);(0,i.useEffect)(()=>(window.addEventListener(e,s,n),()=>window.removeEventListener(e,s,n)),[e])}),{setters:[function(e){n=e.Ss,s=e.ys}],execute:function(){i=n(s(),1)}}});

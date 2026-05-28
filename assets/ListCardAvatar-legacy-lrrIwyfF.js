@@ -1,0 +1,1 @@
+System.register(["./index-legacy-BnEGTK8C.js","./AvatarSpinner-legacy-Kbu7qxyk.js"],function(t,r){var s,a,e;return{setters:[function(t){s=t.bs},function(t){a=t.t}],execute:function(){e=s(),t("t",t=>{const{slots:r}=t;return(0,e.jsx)(a,{...t,slots:{...r,avatarProps:{...r?.avatarProps,sx:{width:56,height:56,flex:"0 0 auto",background:"transparent",...r?.avatarProps?.sx}}}})})}}});
