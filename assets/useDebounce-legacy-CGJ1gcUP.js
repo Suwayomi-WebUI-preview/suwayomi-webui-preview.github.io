@@ -1,0 +1,1 @@
+System.register(["./index-legacy-sxIstn1z.js"],function(e,t){var n,s,r;return{setters:[function(e){n=e.Ss,s=e.ys}],execute:function(){r=n(s(),1),e("t",(e,t)=>{const[n,s]=(0,r.useState)(e);return(0,r.useEffect)(()=>{const n=setTimeout(()=>{s(e)},t);return()=>{clearTimeout(n)}},[e,t]),n})}}});
