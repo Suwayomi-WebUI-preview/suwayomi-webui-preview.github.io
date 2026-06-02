@@ -1,1 +1,0 @@
-import{Cs as e,Xt as t,bs as n}from"./index-Ds3y4e4l.js";var r=e(n(),1);function i(e,n,i=[e,n]){let{setTitle:a}=t();(0,r.useLayoutEffect)(()=>(typeof n==`string`?a(e,n):a(e),()=>{a(``)}),i)}export{i as t};

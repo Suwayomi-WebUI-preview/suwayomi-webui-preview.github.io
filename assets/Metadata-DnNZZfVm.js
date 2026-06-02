@@ -1,1 +1,0 @@
-import{Gi as e,va as t,xs as n}from"./index-Ds3y4e4l.js";var r=n(),i=({title:n,value:i,stackProps:a,titleProps:o,valueProps:s})=>(0,r.jsxs)(e,{...a,sx:{flexDirection:`row`,columnGap:1,flexWrap:`wrap`,alignItems:`baseline`,...a?.sx},children:[(0,r.jsx)(t,{...o,sx:{color:`text.secondary`,...o?.sx},children:n}),(0,r.jsx)(t,{...s,children:i})]});export{i as t};
