@@ -1,1 +1,0 @@
-import{Ss as e,Xt as t,ht as n,ys as r}from"./index-DiW_ScaQ.js";var i=e(r(),1),a=(e,r=n)=>{let{setAction:a}=t();(0,i.useEffect)(()=>(a(e),()=>a(null)),r)};export{a as t};
