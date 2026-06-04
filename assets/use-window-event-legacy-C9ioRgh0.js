@@ -1,0 +1,1 @@
+System.register(["./index-legacy-zDfEi2nA.js"],function(e,t){var n,s,i;return e("t",function(e,t,n){const s=(0,i.useEffectEvent)(t);(0,i.useEffect)(()=>(window.addEventListener(e,s,n),()=>window.removeEventListener(e,s,n)),[e])}),{setters:[function(e){n=e.Cs,s=e.bs}],execute:function(){i=n(s(),1)}}});
