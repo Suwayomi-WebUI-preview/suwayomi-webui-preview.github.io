@@ -1,0 +1,1 @@
+import{Cs as e,bs as t}from"./index-C2F2tQ3n.js";var n=e(t(),1),r=(e,t)=>{let[r,i]=(0,n.useState)(e);return(0,n.useEffect)(()=>{let n=setTimeout(()=>{i(e)},t);return()=>{clearTimeout(n)}},[e,t]),r};export{r as t};

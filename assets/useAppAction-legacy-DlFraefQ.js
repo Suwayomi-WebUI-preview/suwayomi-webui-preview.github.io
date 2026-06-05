@@ -1,0 +1,1 @@
+System.register(["./index-legacy-hOs-vIXy.js"],function(t,e){var n,s,c,u,i;return{setters:[function(t){n=t.Cs,s=t.Xt,c=t.bs,u=t.ht}],execute:function(){i=n(c(),1),t("t",(t,e=u)=>{const{setAction:n}=s();(0,i.useEffect)(()=>(n(t),()=>n(null)),e)})}}});

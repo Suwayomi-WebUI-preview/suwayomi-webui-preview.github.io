@@ -1,1 +1,0 @@
-System.register(["./index-legacy-zDfEi2nA.js"],function(e,t){var n,r,s;return{setters:[function(e){n=e.B,r=e.xs}],execute:function(){s=r(),e("t",({children:e,maxSelectionHeightPx:t=250,...r})=>(0,s.jsx)(n,{MenuProps:{slotProps:{paper:{sx:{maxHeight:t}}}},...r,children:e}))}}});

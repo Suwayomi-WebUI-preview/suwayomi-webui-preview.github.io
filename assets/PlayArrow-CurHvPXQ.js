@@ -1,0 +1,1 @@
+import{Ba as e,xs as t}from"./index-C2F2tQ3n.js";var n=e((0,t().jsx)(`path`,{d:`M8 5v14l11-7z`}),`PlayArrow`);export{n as t};
