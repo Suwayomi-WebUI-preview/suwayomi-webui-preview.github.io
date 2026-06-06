@@ -1,0 +1,1 @@
+import{Zt as e,gt as t,ws as n,xs as r}from"./index-Bw2mp4Cj.js";var i=n(r(),1),a=(n,r=t)=>{let{setAction:a}=e();(0,i.useEffect)(()=>(a(n),()=>a(null)),r)};export{a as t};

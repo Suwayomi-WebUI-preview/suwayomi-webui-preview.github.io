@@ -1,0 +1,1 @@
+System.register(["./index-legacy--bXoK8A7.js"],function(t,e){var n,s,c,u,i;return{setters:[function(t){n=t.Zt,s=t.gt,c=t.ws,u=t.xs}],execute:function(){i=c(u(),1),t("t",(t,e=s)=>{const{setAction:c}=n();(0,i.useEffect)(()=>(c(t),()=>c(null)),e)})}}});
