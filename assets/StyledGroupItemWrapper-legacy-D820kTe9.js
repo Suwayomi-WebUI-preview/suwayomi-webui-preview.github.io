@@ -1,1 +1,0 @@
-System.register(["./index-legacy-hOs-vIXy.js"],function(e,t){var n,s,i,c,o;return{setters:[function(e){n=e.Cs,s=e.To,i=e.bs,c=e.po}],execute:function(){o=n(i(),1),e("t",(0,o.memo)(s(c)(({theme:e})=>({padding:e.spacing(0,1,1,1)}))))}}});

@@ -1,0 +1,1 @@
+System.register(["./index-legacy-BOdOrlav.js"],function(e,t){var n,s,r;return{setters:[function(e){n=e.Ss,s=e.Va}],execute:function(){r=n(),e("t",s((0,r.jsx)("path",{d:"M5 20h14v-2H5zM19 9h-4V3H9v6H5l7 7z"}),"Download"))}}});

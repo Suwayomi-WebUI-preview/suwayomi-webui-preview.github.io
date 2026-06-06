@@ -1,0 +1,1 @@
+System.register(["./index-legacy-BOdOrlav.js"],function(t,e){var n,s,c,i;return t("t",function(t,e,s=[t,e]){const{setTitle:c}=n();(0,i.useLayoutEffect)(()=>("string"==typeof e?c(t,e):c(t),()=>{c("")}),s)}),{setters:[function(t){n=t.Zt,s=t.ws,c=t.xs}],execute:function(){i=s(c(),1)}}});
