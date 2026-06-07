@@ -1,1 +1,0 @@
-System.register(["./index-legacy-ehk9MV2p.js"],function(e,t){var i,n,s;return{setters:[function(e){i=e.Ss,n=e.mo}],execute:function(){s=i(),e("t",({children:e,...t})=>(0,s.jsx)(n,{...t,sx:{...t.sx,position:"relative",height:"100%"},children:e}))}}});

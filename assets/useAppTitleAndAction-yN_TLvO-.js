@@ -1,0 +1,1 @@
+import{t as e}from"./useAppTitle-Dm6tpHpd.js";import{t}from"./useAppAction-RnWYleam.js";var n=(n,r,i)=>{e(n),t(r,i)};export{n as t};
