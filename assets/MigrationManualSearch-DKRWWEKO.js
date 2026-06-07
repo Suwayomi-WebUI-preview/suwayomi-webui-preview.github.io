@@ -1,0 +1,1 @@
+import{Ss as e,n as t}from"./index-ByNeKAbm.js";import{SearchAll as n}from"./SearchAll-DgiDUTOx.js";var r=e(),i=()=>(0,r.jsx)(n,{migrationDestinationSourceIds:t.getState().destinationSourceIds});export{i as MigrationManualSearch};
