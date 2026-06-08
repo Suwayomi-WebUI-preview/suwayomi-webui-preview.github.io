@@ -1,1 +1,0 @@
-System.register(["./index-legacy-DCkQ3dNC.js"],function(e,t){var n,r,s;return{setters:[function(e){n=e.Ss,r=e.Va}],execute:function(){s=n(),e("t",r((0,s.jsx)("path",{d:"M8 5v14l11-7z"}),"PlayArrow"))}}});
