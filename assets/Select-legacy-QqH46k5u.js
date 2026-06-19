@@ -1,1 +1,0 @@
-System.register(["./index-legacy-DrIc94dJ.js"],function(e,t){var n,r,s;return{setters:[function(e){n=e.Cs,r=e.H}],execute:function(){s=n(),e("t",({children:e,maxSelectionHeightPx:t=250,...n})=>(0,s.jsx)(r,{MenuProps:{slotProps:{paper:{sx:{maxHeight:t}}}},...n,children:e}))}}});

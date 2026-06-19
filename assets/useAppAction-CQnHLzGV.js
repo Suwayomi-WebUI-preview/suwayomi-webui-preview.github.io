@@ -1,0 +1,1 @@
+import{Qt as e,Ss as t,Ts as n,_t as r}from"./index-CK0bItJV.js";var i=n(t(),1),a=(t,n=r)=>{let{setAction:a}=e();(0,i.useEffect)(()=>(a(t),()=>a(null)),n)};export{a as t};

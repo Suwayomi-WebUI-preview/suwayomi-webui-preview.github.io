@@ -1,0 +1,1 @@
+System.register(["./index-legacy-CiIk8JX9.js"],function(e,t){var n,s,h;return{setters:[function(e){n=e.Cs,s=e.Va}],execute:function(){h=n(),e("t",s((0,h.jsx)("path",{d:"M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6z"}),"Add"))}}});
