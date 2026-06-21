@@ -1,0 +1,1 @@
+import{Cs as e,Z as t}from"./index-BRSG7q9W.js";var n=e();function r({sx:e,...r}){return(0,n.jsx)(t,{...r,sx:{position:`absolute`,minHeight:`fill-available`,...e}})}export{r as t};
