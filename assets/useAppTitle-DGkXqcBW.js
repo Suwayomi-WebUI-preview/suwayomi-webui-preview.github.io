@@ -1,0 +1,1 @@
+import{Qt as e,Ss as t,Ts as n}from"./index-BBeGERQy.js";var r=n(t(),1);function i(t,n,i=[t,n]){let{setTitle:a}=e();(0,r.useLayoutEffect)(()=>(typeof n==`string`?a(t,n):a(t),()=>{a(``)}),i)}export{i as t};

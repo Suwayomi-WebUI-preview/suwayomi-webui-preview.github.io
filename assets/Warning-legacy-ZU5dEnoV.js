@@ -1,1 +1,0 @@
-System.register(["./index-legacy-Bb8uTBsL.js"],function(e,t){var n,r,s;return{setters:[function(e){n=e.Cs,r=e.Va}],execute:function(){s=n(),e("t",r((0,s.jsx)("path",{d:"M1 21h22L12 2zm12-3h-2v-2h2zm0-4h-2v-4h2z"}),"Warning"))}}});
