@@ -1,0 +1,1 @@
+import{Cs as e,n as t}from"./index-7bPlFw5P.js";import{SearchAll as n}from"./SearchAll-CyMwCKKw.js";var r=e(),i=()=>(0,r.jsx)(n,{migrationDestinationSourceIds:t.getState().destinationSourceIds});export{i as MigrationManualSearch};
