@@ -1,0 +1,1 @@
+System.register(["./index-legacy-C2TZVLz6.js"],function(e,t){var n,r,c;return{setters:[function(e){n=e.ec,r=e.vo}],execute:function(){c=n(),e("t",r((0,c.jsx)("path",{d:"M1 21h22L12 2zm12-3h-2v-2h2zm0-4h-2v-4h2z"}),"Warning"))}}});

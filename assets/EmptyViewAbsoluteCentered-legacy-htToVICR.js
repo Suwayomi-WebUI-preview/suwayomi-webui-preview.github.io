@@ -1,0 +1,1 @@
+System.register(["./index-legacy-C2TZVLz6.js"],function(e,t){var n,i,s;return e("t",function({sx:e,...t}){return(0,s.jsx)(n,{...t,sx:{position:"absolute",minHeight:"fill-available",...e}})}),{setters:[function(e){n=e.J,i=e.ec}],execute:function(){s=i()}}});

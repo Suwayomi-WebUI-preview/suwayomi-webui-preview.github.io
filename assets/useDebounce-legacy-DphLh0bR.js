@@ -1,0 +1,1 @@
+System.register(["./index-legacy-C2TZVLz6.js"],function(e,t){var n,r,s;return{setters:[function(e){n=e.$s,r=e.nc}],execute:function(){s=r(n(),1),e("t",(e,t)=>{const[n,r]=(0,s.useState)(e);return(0,s.useEffect)(()=>{const n=setTimeout(()=>{r(e)},t);return()=>{clearTimeout(n)}},[e,t]),n})}}});
