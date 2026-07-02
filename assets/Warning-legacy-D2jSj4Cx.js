@@ -1,0 +1,1 @@
+System.register(["./index-legacy-VrbLQY58.js"],function(e,t){var n,i,r;return{setters:[function(e){n=e.So,i=e.ic}],execute:function(){r=i(),e("t",n((0,r.jsx)("path",{d:"M1 21h22L12 2zm12-3h-2v-2h2zm0-4h-2v-4h2z"}),"Warning"))}}});

@@ -1,1 +1,0 @@
-import{$s as e,Yt as t,mt as n,nc as r}from"./index-RVvR-5cw.js";var i=r(e(),1),a=(e,r=n)=>{let{setAction:a}=t();(0,i.useEffect)(()=>(a(e),()=>a(null)),r)};export{a as t};

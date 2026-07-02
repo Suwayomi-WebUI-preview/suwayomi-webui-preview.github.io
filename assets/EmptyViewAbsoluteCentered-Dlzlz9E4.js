@@ -1,0 +1,1 @@
+import{J as e,ic as t}from"./index-By_pYswu.js";var n=t();function r({sx:t,...r}){return(0,n.jsx)(e,{...r,sx:{position:`absolute`,minHeight:`fill-available`,...t}})}export{r as t};

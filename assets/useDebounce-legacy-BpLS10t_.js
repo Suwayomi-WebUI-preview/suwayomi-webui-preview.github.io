@@ -1,0 +1,1 @@
+System.register(["./index-legacy-VrbLQY58.js"],function(e,t){var n,r,c;return{setters:[function(e){n=e.oc,r=e.rc}],execute:function(){c=n(r(),1),e("t",(e,t)=>{const[n,r]=(0,c.useState)(e);return(0,c.useEffect)(()=>{const n=setTimeout(()=>{r(e)},t);return()=>{clearTimeout(n)}},[e,t]),n})}}});

@@ -1,1 +1,0 @@
-import{Go as e,ec as t}from"./index-RVvR-5cw.js";var n=t(),r=({children:t,...r})=>(0,n.jsx)(e,{...r,sx:{...r.sx,position:`relative`,height:`100%`},children:t});export{r as t};

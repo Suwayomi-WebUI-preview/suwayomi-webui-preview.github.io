@@ -1,1 +1,0 @@
-import{ec as e,z as t}from"./index-RVvR-5cw.js";var n=e(),r=({children:e,maxSelectionHeightPx:r=250,...i})=>(0,n.jsx)(t,{MenuProps:{slotProps:{paper:{sx:{maxHeight:r}}}},...i,children:e});export{r as t};

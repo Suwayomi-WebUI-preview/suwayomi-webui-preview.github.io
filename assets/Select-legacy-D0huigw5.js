@@ -1,0 +1,1 @@
+System.register(["./index-legacy-VrbLQY58.js"],function(e,t){var n,i,r;return{setters:[function(e){n=e.ic,i=e.z}],execute:function(){r=n(),e("t",({children:e,maxSelectionHeightPx:t=250,...n})=>(0,r.jsx)(i,{MenuProps:{slotProps:{paper:{sx:{maxHeight:t}}}},...n,children:e}))}}});
