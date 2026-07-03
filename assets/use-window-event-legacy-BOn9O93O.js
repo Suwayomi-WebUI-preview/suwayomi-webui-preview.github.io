@@ -1,1 +1,0 @@
-System.register(["./index-legacy-VrbLQY58.js"],function(e,t){var n,c,i;return e("t",function(e,t,n){const c=(0,i.useEffectEvent)(t);(0,i.useEffect)(()=>(window.addEventListener(e,c,n),()=>window.removeEventListener(e,c,n)),[e])}),{setters:[function(e){n=e.oc,c=e.rc}],execute:function(){i=n(c(),1)}}});

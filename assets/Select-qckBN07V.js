@@ -1,0 +1,1 @@
+import{ic as e,z as t}from"./index-D9mx84nP.js";var n=e(),r=({children:e,maxSelectionHeightPx:r=250,...i})=>(0,n.jsx)(t,{MenuProps:{slotProps:{paper:{sx:{maxHeight:r}}}},...i,children:e});export{r as t};

@@ -1,0 +1,1 @@
+import{Yt as e,mt as t,oc as n,rc as r}from"./index-D9mx84nP.js";var i=n(r(),1),a=(n,r=t)=>{let{setAction:a}=e();(0,i.useEffect)(()=>(a(n),()=>a(null)),r)};export{a as t};

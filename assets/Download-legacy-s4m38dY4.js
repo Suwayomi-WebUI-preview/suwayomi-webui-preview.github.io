@@ -1,1 +1,0 @@
-System.register(["./index-legacy-VrbLQY58.js"],function(e,t){var n,c,i;return{setters:[function(e){n=e.So,c=e.ic}],execute:function(){i=c(),e("t",n((0,i.jsx)("path",{d:"M5 20h14v-2H5zM19 9h-4V3H9v6H5l7 7z"}),"Download"))}}});

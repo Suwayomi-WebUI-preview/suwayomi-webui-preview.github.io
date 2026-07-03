@@ -1,1 +1,0 @@
-System.register(["./index-legacy-VrbLQY58.js"],function(e,t){var n,c,s,i,r;return{setters:[function(e){n=e.Yo,c=e.oc,s=e.rc,i=e.ss}],execute:function(){r=c(s(),1),e("t",(0,r.memo)(i(n)(({theme:e})=>({padding:e.spacing(0,1,1,1)}))))}}});
