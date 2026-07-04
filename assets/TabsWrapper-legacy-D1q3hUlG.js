@@ -1,0 +1,1 @@
+System.register(["./index-legacy-DDn8TCID.js"],function(e,t){var i,n,r;return{setters:[function(e){i=e.Xo,n=e.ac}],execute:function(){r=n(),e("t",({children:e,...t})=>(0,r.jsx)(i,{...t,sx:{...t.sx,position:"relative",height:"100%"},children:e}))}}});

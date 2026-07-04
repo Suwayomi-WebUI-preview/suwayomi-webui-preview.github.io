@@ -1,1 +1,0 @@
-System.register(["./index-legacy-D0Xkb1Tu.js"],function(t,e){var i,n,r;return{setters:[function(t){i=t.So,n=t.ic}],execute:function(){r=n(),t("t",i((0,r.jsx)("path",{d:"M10 18h4v-2h-4zM3 6v2h18V6zm3 7h12v-2H6z"}),"FilterList"))}}});

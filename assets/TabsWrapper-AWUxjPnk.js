@@ -1,1 +1,0 @@
-import{Yo as e,ic as t}from"./index-D9mx84nP.js";var n=t(),r=({children:t,...r})=>(0,n.jsx)(e,{...r,sx:{...r.sx,position:`relative`,height:`100%`},children:t});export{r as t};

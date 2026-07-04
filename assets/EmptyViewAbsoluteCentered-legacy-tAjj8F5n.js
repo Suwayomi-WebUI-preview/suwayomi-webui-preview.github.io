@@ -1,1 +1,0 @@
-System.register(["./index-legacy-D0Xkb1Tu.js"],function(e,t){var i,n,s;return e("t",function({sx:e,...t}){return(0,s.jsx)(i,{...t,sx:{position:"absolute",minHeight:"fill-available",...e}})}),{setters:[function(e){i=e.J,n=e.ic}],execute:function(){s=n()}}});

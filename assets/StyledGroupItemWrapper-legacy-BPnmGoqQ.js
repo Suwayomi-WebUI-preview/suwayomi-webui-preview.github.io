@@ -1,0 +1,1 @@
+System.register(["./index-legacy-DDn8TCID.js"],function(e,t){var n,c,i,s,r;return{setters:[function(e){n=e.Xo,c=e.cs,i=e.ic,s=e.sc}],execute:function(){r=s(i(),1),e("t",(0,r.memo)(c(n)(({theme:e})=>({padding:e.spacing(0,1,1,1)}))))}}});

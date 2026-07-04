@@ -1,0 +1,1 @@
+System.register(["./index-legacy-DDn8TCID.js"],function(e,t){var n,r,c;return{setters:[function(e){n=e.Co,r=e.ac}],execute:function(){c=r(),e("t",n((0,c.jsx)("path",{d:"M8 5v14l11-7z"}),"PlayArrow"))}}});

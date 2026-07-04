@@ -1,0 +1,1 @@
+import{Oa as e,ac as t,to as n}from"./index-ChpAaaHJ.js";var r=t(),i=({title:t,value:i,stackProps:a,titleProps:o,valueProps:s})=>(0,r.jsxs)(e,{...a,sx:{flexDirection:`row`,columnGap:1,flexWrap:`wrap`,alignItems:`baseline`,...a?.sx},children:[(0,r.jsx)(n,{...o,sx:{color:`text.secondary`,...o?.sx},children:t}),(0,r.jsx)(n,{...s,children:i})]});export{i as t};

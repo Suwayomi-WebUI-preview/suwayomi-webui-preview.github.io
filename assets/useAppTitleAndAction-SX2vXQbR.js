@@ -1,1 +1,0 @@
-import{t as e}from"./useAppTitle-OlkgGog5.js";import{t}from"./useAppAction-BUdjnoZU.js";var n=(n,r,i)=>{e(n),t(r,i)};export{n as t};
