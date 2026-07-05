@@ -1,1 +1,0 @@
-import{Xo as e,cs as t,ic as n,sc as r}from"./index-ChpAaaHJ.js";var i=(0,r(n(),1).memo)(t(e)(({theme:e})=>({padding:e.spacing(0,1,1,1)})));export{i as t};

@@ -1,1 +1,0 @@
-System.register(["./index-legacy-DDn8TCID.js"],function(e,t){var n,c,o;return{setters:[function(e){n=e.Co,c=e.ac}],execute:function(){o=c(),e("t",n((0,o.jsx)("path",{d:"M5 20h14v-2H5zM19 9h-4V3H9v6H5l7 7z"}),"Download"))}}});

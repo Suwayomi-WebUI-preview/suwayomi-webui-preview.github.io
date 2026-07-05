@@ -1,1 +1,0 @@
-import{Yt as e,ic as t,sc as n}from"./index-ChpAaaHJ.js";var r=n(t(),1);function i(t,n,i=[t,n]){let{setTitle:a}=e();(0,r.useLayoutEffect)(()=>(typeof n==`string`?a(t,n):a(t),()=>{a(``)}),i)}export{i as t};

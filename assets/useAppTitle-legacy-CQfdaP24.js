@@ -1,1 +1,0 @@
-System.register(["./index-legacy-DDn8TCID.js"],function(t,e){var n,c,s,i;return t("t",function(t,e,c=[t,e]){const{setTitle:s}=n();(0,i.useLayoutEffect)(()=>("string"==typeof e?s(t,e):s(t),()=>{s("")}),c)}),{setters:[function(t){n=t.Yt,c=t.ic,s=t.sc}],execute:function(){i=s(c(),1)}}});

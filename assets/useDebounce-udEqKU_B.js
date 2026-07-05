@@ -1,1 +1,0 @@
-import{ic as e,sc as t}from"./index-ChpAaaHJ.js";var n=t(e(),1),r=(e,t)=>{let[r,i]=(0,n.useState)(e);return(0,n.useEffect)(()=>{let n=setTimeout(()=>{i(e)},t);return()=>{clearTimeout(n)}},[e,t]),r};export{r as t};
