@@ -1,0 +1,1 @@
+System.register(["./index-legacy-2MIuvcFM.js"],function(e,t){var n,c,s,i,r;return{setters:[function(e){n=e._s,c=e.as,s=e.gc,i=e.pc}],execute:function(){r=s(i(),1),e("t",(0,r.memo)(n(c)(({theme:e})=>({padding:e.spacing(0,1,1,1)}))))}}});

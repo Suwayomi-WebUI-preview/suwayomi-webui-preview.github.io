@@ -1,1 +1,0 @@
-import{t as e}from"./useAppTitle-Dez2gLSb.js";import{t}from"./useAppAction-BFu-RTqr.js";var n=(n,r,i)=>{e(n),t(r,i)};export{n as t};
