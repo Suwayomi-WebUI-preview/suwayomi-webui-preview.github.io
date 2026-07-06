@@ -1,1 +1,0 @@
-import{Z as e,mc as t}from"./index-BbHtojZa.js";var n=t();function r({sx:t,...r}){return(0,n.jsx)(e,{...r,sx:{position:`absolute`,minHeight:`fill-available`,...t}})}export{r as t};
