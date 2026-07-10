@@ -1,0 +1,1 @@
+System.register(["./index-legacy-BYVDvbm5.js"],function(e,t){var n,r,c;return{setters:[function(e){n=e.Mo,r=e.mc}],execute:function(){c=r(),e("t",n((0,c.jsx)("path",{d:"M1 21h22L12 2zm12-3h-2v-2h2zm0-4h-2v-4h2z"}),"Warning"))}}});
