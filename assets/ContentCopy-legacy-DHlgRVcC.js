@@ -1,1 +1,0 @@
-System.register(["./index-legacy-DlEAVoBX.js"],function(t,e){var c,n,o;return{setters:[function(t){c=t.Mo,n=t.mc}],execute:function(){o=n(),t("t",c((0,o.jsx)("path",{d:"M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2m0 16H8V7h11z"}),"ContentCopy"))}}});

@@ -1,1 +1,0 @@
-import{Qt as e,_t as t,gc as n,pc as r}from"./index-f6T4KKHR.js";var i=n(r(),1),a=(n,r=t)=>{let{setAction:a}=e();(0,i.useEffect)(()=>(a(n),()=>a(null)),r)};export{a as t};
