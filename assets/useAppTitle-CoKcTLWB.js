@@ -1,0 +1,1 @@
+import{Qt as e,gc as t,pc as n}from"./index-f0Z34PXJ.js";var r=t(n(),1);function i(t,n,i=[t,n]){let{setTitle:a}=e();(0,r.useLayoutEffect)(()=>(typeof n==`string`?a(t,n):a(t),()=>{a(``)}),i)}export{i as t};

@@ -1,1 +1,0 @@
-import{as as e,mc as t}from"./index-BP_vFf0V.js";var n=t(),r=({children:t,...r})=>(0,n.jsx)(e,{...r,sx:{...r.sx,position:`relative`,height:`100%`},children:t});export{r as t};
