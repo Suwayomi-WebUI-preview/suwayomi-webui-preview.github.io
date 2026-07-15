@@ -1,0 +1,1 @@
+System.register(["./index-legacy-X7YS14j8.js"],function(t,e){var n;return{setters:[function(t){n=t.ts}],execute:function(){t("t",(t,e)=>0===t?e:t??e),t("n",(t,e,r,s)=>{const[c,u]=n(t,e);return[s(r,c),u]})}}});
