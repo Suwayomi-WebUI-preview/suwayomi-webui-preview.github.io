@@ -1,0 +1,1 @@
+System.register(["./index-legacy-Belyz7Ub.js"],function(t,e){var n,c,s,u,i;return{setters:[function(t){n=t.$t,c=t.Sc,s=t.vt,u=t.yc}],execute:function(){i=c(u(),1),t("t",(t,e=s)=>{const{setAction:c}=n();(0,i.useEffect)(()=>(c(t),()=>c(null)),e)})}}});
