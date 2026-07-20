@@ -1,1 +1,0 @@
-System.register(["./index-legacy-S2_MFY94.js","./AvatarSpinner-legacy-BCDNtRF3.js"],function(t,r){var a,s,e;return{setters:[function(t){a=t.bc},function(t){s=t.t}],execute:function(){e=a(),t("t",t=>{const{slots:r}=t;return(0,e.jsx)(s,{...t,slots:{...r,avatarProps:{...r?.avatarProps,sx:{width:56,height:56,flex:"0 0 auto",background:"transparent",...r?.avatarProps?.sx}}}})})}}});
