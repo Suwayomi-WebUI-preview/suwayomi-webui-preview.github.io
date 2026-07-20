@@ -1,0 +1,1 @@
+System.register(["./index-legacy-S4dUkdWF.js"],function(e,t){var n,c,s,i,r;return{setters:[function(e){n=e.Cs,c=e.Sc,s=e.ds,i=e.yc}],execute:function(){r=c(i(),1),e("t",(0,r.memo)(n(s)(({theme:e})=>({padding:e.spacing(0,1,1,1)}))))}}});

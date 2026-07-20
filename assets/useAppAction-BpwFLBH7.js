@@ -1,0 +1,1 @@
+import{$t as e,Sc as t,vt as n,yc as r}from"./index-DRHWGVqq.js";var i=t(r(),1),a=(t,r=n)=>{let{setAction:a}=e();(0,i.useEffect)(()=>(a(t),()=>a(null)),r)};export{a as t};
