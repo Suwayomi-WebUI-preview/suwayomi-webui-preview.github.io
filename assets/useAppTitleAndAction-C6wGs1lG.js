@@ -1,1 +1,0 @@
-import{t as e}from"./useAppTitle-DondHBra.js";import{t}from"./useAppAction-BBS_mgAL.js";var n=(n,r,i)=>{e(n),t(r,i)};export{n as t};
