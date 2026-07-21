@@ -1,1 +1,0 @@
-import{$t as e,Sc as t,yc as n}from"./index-BvO7QG3P.js";var r=t(n(),1);function i(t,n,i=[t,n]){let{setTitle:a}=e();(0,r.useLayoutEffect)(()=>(typeof n==`string`?a(t,n):a(t),()=>{a(``)}),i)}export{i as t};
