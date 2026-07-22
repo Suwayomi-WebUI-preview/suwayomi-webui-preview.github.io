@@ -1,1 +1,0 @@
-System.register(["./index-legacy-RdkYeA5g.js"],function(e,t){var n,i,s;return e("t",function({sx:e,...t}){return(0,s.jsx)(i,{...t,sx:{position:"absolute",minHeight:"fill-available",...e}})}),{setters:[function(e){n=e.Dc,i=e.Q}],execute:function(){s=n()}}});

@@ -1,1 +1,0 @@
-import{Ds as e,Ec as t,hs as n,kc as r}from"./index-BbpkJrl3.js";var i=(0,r(t(),1).memo)(e(n)(({theme:e})=>({padding:e.spacing(0,1,1,1)})));export{i as t};
