@@ -1,0 +1,1 @@
+System.register(["./index-legacy-BNd2_Wj1.js"],function(e,t){var n,c,s,i,r;return{setters:[function(e){n=e.Ac,c=e.Dc,s=e.Os,i=e.gs}],execute:function(){r=n(c(),1),e("t",(0,r.memo)(s(i)(({theme:e})=>({padding:e.spacing(0,1,1,1)}))))}}});

@@ -1,1 +1,0 @@
-System.register(["./index-legacy-B-EwZDAf.js"],function(e,t){var n,c,o;return{setters:[function(e){n=e.Dc,c=e.Ho}],execute:function(){o=n(),e("t",c((0,o.jsx)("path",{d:"M5 20h14v-2H5zM19 9h-4V3H9v6H5l7 7z"}),"Download"))}}});

@@ -1,0 +1,1 @@
+System.register(["./index-legacy-BNd2_Wj1.js"],function(t,e){var n,c,s,i;return t("t",function(t,e,c=[t,e]){const{setTitle:s}=n();(0,i.useLayoutEffect)(()=>("string"==typeof e?s(t,e):s(t),()=>{s("")}),c)}),{setters:[function(t){n=t.$t,c=t.Ac,s=t.Dc}],execute:function(){i=c(s(),1)}}});

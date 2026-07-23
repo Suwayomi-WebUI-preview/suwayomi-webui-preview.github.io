@@ -1,0 +1,1 @@
+import{Oc as e,Uo as t}from"./index-CdfqNjC2.js";import{t as n}from"./RenderGuard-D_F1reTg.js";var r=e(),i=t((0,r.jsx)(`path`,{d:`M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2m0 16H8V7h11z`}),`ContentCopy`),a=({children:e})=>(0,r.jsx)(n,{condition:!!navigator.clipboard,children:e});export{i as n,a as t};

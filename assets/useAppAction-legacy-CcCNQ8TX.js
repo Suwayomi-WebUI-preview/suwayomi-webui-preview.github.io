@@ -1,0 +1,1 @@
+System.register(["./index-legacy-BNd2_Wj1.js"],function(t,e){var n,c,s,u,i;return{setters:[function(t){n=t.$t,c=t.Ac,s=t.Dc,u=t.vt}],execute:function(){i=c(s(),1),t("t",(t,e=u)=>{const{setAction:c}=n();(0,i.useEffect)(()=>(c(t),()=>c(null)),e)})}}});
