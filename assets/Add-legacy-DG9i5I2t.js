@@ -1,1 +1,0 @@
-System.register(["./index-legacy-BNd2_Wj1.js"],function(e,t){var n,c,h;return{setters:[function(e){n=e.Oc,c=e.Uo}],execute:function(){h=n(),e("t",c((0,h.jsx)("path",{d:"M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6z"}),"Add"))}}});

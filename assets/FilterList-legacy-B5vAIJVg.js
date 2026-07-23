@@ -1,1 +1,0 @@
-System.register(["./index-legacy-BNd2_Wj1.js"],function(t,e){var n,i,r;return{setters:[function(t){n=t.Oc,i=t.Uo}],execute:function(){r=n(),t("t",i((0,r.jsx)("path",{d:"M10 18h4v-2h-4zM3 6v2h18V6zm3 7h12v-2H6z"}),"FilterList"))}}});

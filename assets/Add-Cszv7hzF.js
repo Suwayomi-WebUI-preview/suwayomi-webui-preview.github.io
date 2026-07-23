@@ -1,0 +1,1 @@
+import{Oc as e,Uo as t}from"./index-BlpzJT9Q.js";var n=t((0,e().jsx)(`path`,{d:`M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6z`}),`Add`);export{n as t};
