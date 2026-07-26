@@ -1,0 +1,1 @@
+import{Ac as e,Dc as t,Os as n,gs as r}from"./index-i4sVSdRr.js";var i=(0,e(t(),1).memo)(n(r)(({theme:e})=>({padding:e.spacing(0,1,1,1)})));export{i as t};
