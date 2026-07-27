@@ -1,0 +1,1 @@
+import{Oc as e,_s as t,jc as n,ks as r}from"./index-ByTLTJlt.js";var i=(0,n(e(),1).memo)(r(t)(({theme:e})=>({padding:e.spacing(0,1,1,1)})));export{i as t};

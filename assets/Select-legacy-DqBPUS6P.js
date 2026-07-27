@@ -1,0 +1,1 @@
+System.register(["./index-legacy-awD5nYsB.js"],function(e,t){var n,r,i;return{setters:[function(e){n=e.W,r=e.kc}],execute:function(){i=r(),e("t",({children:e,maxSelectionHeightPx:t=250,...r})=>(0,i.jsx)(n,{MenuProps:{slotProps:{paper:{sx:{maxHeight:t}}}},...r,children:e}))}}});
