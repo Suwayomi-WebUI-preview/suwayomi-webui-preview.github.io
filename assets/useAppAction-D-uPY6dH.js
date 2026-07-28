@@ -1,1 +1,0 @@
-import{Oc as e,en as t,jc as n,yt as r}from"./index-ByTLTJlt.js";var i=n(e(),1),a=(e,n=r)=>{let{setAction:a}=t();(0,i.useEffect)(()=>(a(e),()=>a(null)),n)};export{a as t};
