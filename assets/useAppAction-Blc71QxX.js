@@ -1,0 +1,1 @@
+import{Ec as e,Qt as t,Rn as n,kc as r}from"./index-Dhq5XLMN.js";var i=r(e(),1),a=(e,r=n)=>{let{setAction:a}=t();(0,i.useEffect)(()=>(a(e),()=>a(null)),r)};export{a as t};
