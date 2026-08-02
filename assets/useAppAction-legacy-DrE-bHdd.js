@@ -1,0 +1,1 @@
+System.register(["./index-legacy-B4-8GlNN.js"],function(t,e){var n,c,s,u,i;return{setters:[function(t){n=t.Ec,c=t.Qt,s=t.Rn,u=t.kc}],execute:function(){i=u(n(),1),t("t",(t,e=s)=>{const{setAction:n}=c();(0,i.useEffect)(()=>(n(t),()=>n(null)),e)})}}});
