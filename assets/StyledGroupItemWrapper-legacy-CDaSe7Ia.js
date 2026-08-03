@@ -1,0 +1,1 @@
+System.register(["./index-legacy-C90Sg7Dn.js"],function(e,t){var n,c,s,i,r;return{setters:[function(e){n=e.Ec,c=e.Es,s=e.kc,i=e.ms}],execute:function(){r=s(n(),1),e("t",(0,r.memo)(c(i)(({theme:e})=>({padding:e.spacing(0,1,1,1)}))))}}});

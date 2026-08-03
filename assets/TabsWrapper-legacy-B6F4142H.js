@@ -1,0 +1,1 @@
+System.register(["./index-legacy-C90Sg7Dn.js"],function(e,t){var i,n,s;return{setters:[function(e){i=e.Dc,n=e.ms}],execute:function(){s=i(),e("t",({children:e,...t})=>(0,s.jsx)(n,{...t,sx:{...t.sx,position:"relative",height:"100%"},children:e}))}}});

@@ -1,0 +1,1 @@
+import{Ec as e,Es as t,kc as n,ms as r}from"./index-dl3fkKFK.js";var i=(0,n(e(),1).memo)(t(r)(({theme:e})=>({padding:e.spacing(0,1,1,1)})));export{i as t};
