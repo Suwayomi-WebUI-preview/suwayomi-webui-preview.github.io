@@ -1,0 +1,1 @@
+System.register(["./index-legacy-ChpTIyTH.js"],function(e,t){var n,c,s,i,r;return{setters:[function(e){n=e.Mc,c=e._s,s=e.kc,i=e.ks}],execute:function(){r=n(s(),1),e("t",(0,r.memo)(i(c)(({theme:e})=>({padding:e.spacing(0,1,1,1)}))))}}});
