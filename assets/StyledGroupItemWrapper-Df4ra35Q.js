@@ -1,0 +1,1 @@
+import{Mc as e,_s as t,kc as n,ks as r}from"./index-u9i_ZoMq.js";var i=(0,e(n(),1).memo)(r(t)(({theme:e})=>({padding:e.spacing(0,1,1,1)})));export{i as t};

@@ -1,0 +1,1 @@
+import{Ac as e,tt as t}from"./index-u9i_ZoMq.js";var n=e();function r({sx:e,...r}){return(0,n.jsx)(t,{...r,sx:{position:`absolute`,minHeight:`fill-available`,...e}})}export{r as t};

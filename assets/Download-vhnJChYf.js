@@ -1,1 +1,0 @@
-import{Dc as e,Vo as t}from"./index-DZ0bjGFL.js";var n=t((0,e().jsx)(`path`,{d:`M5 20h14v-2H5zM19 9h-4V3H9v6H5l7 7z`}),`Download`);export{n as t};

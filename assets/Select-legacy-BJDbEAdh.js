@@ -1,0 +1,1 @@
+System.register(["./index-legacy-D7clMoi4.js"],function(e,t){var n,r,i;return{setters:[function(e){n=e.Ac,r=e.K}],execute:function(){i=n(),e("t",({children:e,maxSelectionHeightPx:t=250,...n})=>(0,i.jsx)(r,{MenuProps:{slotProps:{paper:{sx:{maxHeight:t}}}},...n,children:e}))}}});

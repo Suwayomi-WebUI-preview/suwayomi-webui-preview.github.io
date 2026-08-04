@@ -1,0 +1,1 @@
+import{Bn as e,Mc as t,en as n,kc as r}from"./index-u9i_ZoMq.js";var i=t(r(),1),a=(t,r=e)=>{let{setAction:a}=n();(0,i.useEffect)(()=>(a(t),()=>a(null)),r)};export{a as t};
