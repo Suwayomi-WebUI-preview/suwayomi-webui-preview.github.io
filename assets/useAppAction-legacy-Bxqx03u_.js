@@ -1,0 +1,1 @@
+System.register(["./index-legacy-C-RfJcbc.js"],function(e,t){var n,c,s,u,i;return{setters:[function(e){n=e.Ac,c=e.Bn,s=e.Nc,u=e.en}],execute:function(){i=s(n(),1),e("t",(e,t=c)=>{const{setAction:n}=u();(0,i.useEffect)(()=>(n(e),()=>n(null)),t)})}}});

@@ -1,1 +1,0 @@
-System.register(["./index-legacy-ByotppaU.js"],function(e,t){var n,c,s,i,r;return{setters:[function(e){n=e.Ac,c=e.As,s=e.Nc,i=e.vs}],execute:function(){r=s(n(),1),e("t",(0,r.memo)(c(i)(({theme:e})=>({padding:e.spacing(0,1,1,1)}))))}}});

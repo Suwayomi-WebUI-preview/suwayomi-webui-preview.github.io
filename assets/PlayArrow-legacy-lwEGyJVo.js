@@ -1,1 +1,0 @@
-System.register(["./index-legacy-ByotppaU.js"],function(e,t){var n,r,c;return{setters:[function(e){n=e.Go,r=e.jc}],execute:function(){c=r(),e("t",n((0,c.jsx)("path",{d:"M8 5v14l11-7z"}),"PlayArrow"))}}});

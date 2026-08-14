@@ -1,1 +1,0 @@
-System.register(["./index-legacy-ByotppaU.js","./SearchAll-legacy-DbdkviG5.js"],function(e,t){var n,i,a,c;return{setters:[function(e){n=e.i,i=e.jc},function(e){a=e.SearchAll}],execute:function(){c=i(),e("MigrationManualSearch",()=>(0,c.jsx)(a,{migrationDestinationSourceIds:n.getState().destinationSourceIds}))}}});
