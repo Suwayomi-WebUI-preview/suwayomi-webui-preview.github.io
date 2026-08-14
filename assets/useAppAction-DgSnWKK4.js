@@ -1,0 +1,1 @@
+import{Pc as e,Vn as t,jc as n,tn as r}from"./index-CUn0_OLl.js";var i=e(n(),1),a=(e,n=t)=>{let{setAction:a}=r();(0,i.useEffect)(()=>(a(e),()=>a(null)),n)};export{a as t};

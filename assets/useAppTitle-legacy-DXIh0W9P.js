@@ -1,0 +1,1 @@
+System.register(["./index-legacy-CoXbyKxz.js"],function(t,e){var n,c,s,i;return t("t",function(t,e,n=[t,e]){const{setTitle:c}=s();(0,i.useLayoutEffect)(()=>("string"==typeof e?c(t,e):c(t),()=>{c("")}),n)}),{setters:[function(t){n=t.Pc,c=t.jc,s=t.tn}],execute:function(){i=n(c(),1)}}});
