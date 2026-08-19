@@ -1,1 +1,0 @@
-System.register(["./index-legacy-CoXbyKxz.js"],function(t,e){var n,c,s,u,i;return{setters:[function(t){n=t.Pc,c=t.Vn,s=t.jc,u=t.tn}],execute:function(){i=n(s(),1),t("t",(t,e=c)=>{const{setAction:n}=u();(0,i.useEffect)(()=>(n(t),()=>n(null)),e)})}}});

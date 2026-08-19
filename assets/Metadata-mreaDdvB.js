@@ -1,1 +1,0 @@
-import{Mc as e,Za as t,wo as n}from"./index-CUn0_OLl.js";var r=e(),i=({title:e,value:i,stackProps:a,titleProps:o,valueProps:s})=>(0,r.jsxs)(t,{...a,sx:{flexDirection:`row`,columnGap:1,flexWrap:`wrap`,alignItems:`baseline`,...a?.sx},children:[(0,r.jsx)(n,{...o,sx:{color:`text.secondary`,...o?.sx},children:e}),(0,r.jsx)(n,{...s,children:i})]});export{i as t};

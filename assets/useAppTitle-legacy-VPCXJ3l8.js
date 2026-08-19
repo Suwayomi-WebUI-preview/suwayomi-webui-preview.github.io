@@ -1,0 +1,1 @@
+System.register(["./index-legacy-C2lhioTu.js"],function(t,e){var n,c,s,i;return t("t",function(t,e,n=[t,e]){const{setTitle:c}=s();(0,i.useLayoutEffect)(()=>("string"==typeof e?c(t,e):c(t),()=>{c("")}),n)}),{setters:[function(t){n=t.Fc,c=t.Mc,s=t.nn}],execute:function(){i=n(c(),1)}}});

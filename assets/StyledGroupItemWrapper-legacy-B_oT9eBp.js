@@ -1,1 +1,0 @@
-System.register(["./index-legacy-CoXbyKxz.js"],function(e,t){var n,c,s,i,r;return{setters:[function(e){n=e.Pc,c=e.jc,s=e.js,i=e.ys}],execute:function(){r=n(c(),1),e("t",(0,r.memo)(s(i)(({theme:e})=>({padding:e.spacing(0,1,1,1)}))))}}});

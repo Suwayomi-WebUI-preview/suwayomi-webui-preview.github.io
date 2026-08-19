@@ -1,1 +1,0 @@
-import{Pc as e,jc as t,js as n,ys as r}from"./index-CUn0_OLl.js";var i=(0,e(t(),1).memo)(n(r)(({theme:e})=>({padding:e.spacing(0,1,1,1)})));export{i as t};

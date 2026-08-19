@@ -1,1 +1,0 @@
-import{Ko as e,Mc as t}from"./index-CUn0_OLl.js";var n=e((0,t().jsx)(`path`,{d:`M8 5v14l11-7z`}),`PlayArrow`);export{n as t};
