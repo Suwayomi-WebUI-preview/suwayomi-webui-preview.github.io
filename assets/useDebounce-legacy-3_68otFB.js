@@ -1,0 +1,1 @@
+System.register(["./index-legacy-9nD_EW4c.js"],function(e,t){var n,c,r;return{setters:[function(e){n=e.Fc,c=e.Mc}],execute:function(){r=n(c(),1),e("t",(e,t)=>{const[n,c]=(0,r.useState)(e);return(0,r.useEffect)(()=>{const n=setTimeout(()=>{c(e)},t);return()=>{clearTimeout(n)}},[e,t]),n})}}});
