@@ -1,1 +1,0 @@
-System.register(["./index-legacy-9nD_EW4c.js"],function(e,t){var n,c,o;return{setters:[function(e){n=e.Nc,c=e.qo}],execute:function(){o=n(),e("t",c((0,o.jsx)("path",{d:"M5 20h14v-2H5zM19 9h-4V3H9v6H5l7 7z"}),"Download"))}}});

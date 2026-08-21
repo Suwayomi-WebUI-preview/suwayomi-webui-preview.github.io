@@ -1,1 +1,0 @@
-import{Fc as e,Mc as t,nn as n}from"./index-DRbT89wy.js";var r=e(t(),1);function i(e,t,i=[e,t]){let{setTitle:a}=n();(0,r.useLayoutEffect)(()=>(typeof t==`string`?a(e,t):a(e),()=>{a(``)}),i)}export{i as t};

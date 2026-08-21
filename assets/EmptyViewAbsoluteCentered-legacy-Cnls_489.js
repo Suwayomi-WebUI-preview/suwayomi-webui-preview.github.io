@@ -1,1 +1,0 @@
-System.register(["./index-legacy-9nD_EW4c.js"],function(t,e){var n,i,s;return t("t",function({sx:t,...e}){return(0,s.jsx)(i,{...e,sx:{position:"absolute",minHeight:"fill-available",...t}})}),{setters:[function(t){n=t.Nc,i=t.nt}],execute:function(){s=n()}}});
