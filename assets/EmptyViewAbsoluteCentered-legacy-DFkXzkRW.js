@@ -1,0 +1,1 @@
+System.register(["./index-legacy-CXw9Uuf-.js"],function(t,e){var i,n,s;return t("t",function({sx:t,...e}){return(0,s.jsx)(n,{...e,sx:{position:"absolute",minHeight:"fill-available",...t}})}),{setters:[function(t){i=t.Fc,n=t.it}],execute:function(){s=i()}}});

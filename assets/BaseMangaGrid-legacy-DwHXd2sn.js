@@ -1,0 +1,1 @@
+System.register(["./MangaGrid-legacy-CEC6O7Ev.js","./index-legacy-CXw9Uuf-.js"],function(n,e){var t,r,s;return n("t",function(n){const{mangas:e}=n;return(0,s.jsx)(t,{gridWrapperProps:{sx:{p:1}},...n,mangas:e})}),{setters:[function(n){t=n.n},function(n){r=n.Fc}],execute:function(){s=r()}}});

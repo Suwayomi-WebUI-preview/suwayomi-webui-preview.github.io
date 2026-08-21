@@ -1,1 +1,0 @@
-import{Fc as e,Mc as t,Ms as n,bs as r}from"./index-CUJOKxmz.js";var i=(0,e(t(),1).memo)(n(r)(({theme:e})=>({padding:e.spacing(0,1,1,1)})));export{i as t};
