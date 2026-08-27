@@ -1,0 +1,1 @@
+System.register(["./index-legacy-Bd1sjr-A.js"],function(e,t){var i,n,s;return{setters:[function(e){i=e.Cs,n=e.Ic}],execute:function(){s=n(),e("t",({children:e,...t})=>(0,s.jsx)(i,{...t,sx:{...t.sx,position:"relative",height:"100%"},children:e}))}}});
