@@ -1,0 +1,1 @@
+import{Ht as e}from"./Base.types-BZNmOJVT.js";import{t}from"./EmptyView-Mcx_KZt4.js";var n=e();function r({sx:e,...r}){return(0,n.jsx)(t,{...r,sx:{position:`absolute`,minHeight:`fill-available`,...e}})}export{r as t};

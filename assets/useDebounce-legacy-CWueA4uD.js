@@ -1,0 +1,1 @@
+(function(){System.register([`./rolldown-runtime-legacy-D-7HM2mt.js`,`./Base.types-legacy-BxJCajfF.js`],function(e,t){var n,r,i;return{setters:[function(e){n=e.r},function(e){r=e.Vt}],execute:function(){i=n(r(),1),e(`t`,(e,t)=>{let[n,r]=(0,i.useState)(e);return(0,i.useEffect)(()=>{let n=setTimeout(()=>{r(e)},t);return()=>{clearTimeout(n)}},[e,t]),n})}}})})();

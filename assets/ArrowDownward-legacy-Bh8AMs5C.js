@@ -1,0 +1,1 @@
+(function(){System.register([`./Base.types-legacy-BxJCajfF.js`],function(e,t){var n,r,i;return{setters:[function(e){n=e.Ht,r=e.o}],execute:function(){i=n(),e(`n`,r((0,i.jsx)(`path`,{d:`m4 12 1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8z`}),`ArrowUpward`)),e(`t`,r((0,i.jsx)(`path`,{d:`m20 12-1.41-1.41L13 16.17V4h-2v12.17l-5.58-5.59L4 12l8 8z`}),`ArrowDownward`))}}})})();

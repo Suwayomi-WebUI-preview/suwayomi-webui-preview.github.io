@@ -1,0 +1,1 @@
+(function(){System.register([`./Base.types-legacy-BxJCajfF.js`,`./EmptyView-legacy-Cb3c8afv.js`],function(e,t){var n,r,i;return{setters:[function(e){n=e.Ht},function(e){r=e.f}],execute:function(){i=n(),e(`t`,({children:e,...t})=>(0,i.jsx)(r,{...t,sx:{...t.sx,position:`relative`,height:`100%`},children:e}))}}})})();

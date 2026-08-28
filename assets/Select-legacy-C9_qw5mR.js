@@ -1,0 +1,1 @@
+(function(){System.register([`./Base.types-legacy-BxJCajfF.js`,`./TextField-legacy-B8iHl8iX.js`],function(e,t){var n,r,i;return{setters:[function(e){n=e.Ht},function(e){r=e.n}],execute:function(){i=n(),e(`t`,({children:e,maxSelectionHeightPx:t=250,...n})=>(0,i.jsx)(r,{MenuProps:{slotProps:{paper:{sx:{maxHeight:t}}}},...n,children:e}))}}})})();

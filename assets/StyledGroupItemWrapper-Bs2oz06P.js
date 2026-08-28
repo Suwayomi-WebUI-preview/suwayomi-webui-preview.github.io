@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-hePW80VL.js";import{T as t,Vt as n}from"./Base.types-BZNmOJVT.js";import{f as r}from"./EmptyView-Mcx_KZt4.js";var i=(0,e(n(),1).memo)(t(r)(({theme:e})=>({padding:e.spacing(0,1,1,1)})));export{i as t};

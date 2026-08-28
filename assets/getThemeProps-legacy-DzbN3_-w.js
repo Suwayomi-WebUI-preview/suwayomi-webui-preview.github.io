@@ -1,0 +1,1 @@
+(function(){System.register([`./Base.types-legacy-BxJCajfF.js`],function(e,t){var n;function r(e){let{theme:t,name:r,props:i}=e;return!t||!t.components||!t.components[r]||!t.components[r].defaultProps?i:n(t.components[r].defaultProps,i)}return e(`t`,r),{setters:[function(e){n=e.B}],execute:function(){}}})})();

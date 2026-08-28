@@ -1,0 +1,1 @@
+(function(){System.register([`./Base.types-legacy-BxJCajfF.js`],function(e,t){var n,r;function i(e){return r(`MuiListItemIcon`,e)}return e(`t`,i),{setters:[function(e){n=e.U,r=e.W}],execute:function(){e(`n`,n(`MuiListItemIcon`,[`root`,`alignItemsFlexStart`]))}}})})();

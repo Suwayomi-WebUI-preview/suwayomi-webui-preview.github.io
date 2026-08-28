@@ -1,0 +1,1 @@
+(function(){System.register([`./Base.types-legacy-BxJCajfF.js`],function(e,t){var n,r,i,a;return{setters:[function(e){n=e.Ht,r=e.o}],execute:function(){i=n(),a=r((0,i.jsx)(`path`,{d:`M19 4H5c-1.11 0-2 .9-2 2v12c0 1.1.89 2 2 2h4v-2H5V8h14v10h-4v2h4c1.1 0 2-.9 2-2V6c0-1.1-.89-2-2-2m-7 6-4 4h3v6h2v-6h3z`}),`OpenInBrowser`),e(`t`,a)}}})})();

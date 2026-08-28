@@ -1,1 +1,0 @@
-System.register(["./index-legacy-Bd1sjr-A.js"],function(e,t){var n,r,i;return{setters:[function(e){n=e.Ic,r=e.Y}],execute:function(){i=n(),e("t",({children:e,maxSelectionHeightPx:t=250,...n})=>(0,i.jsx)(r,{MenuProps:{slotProps:{paper:{sx:{maxHeight:t}}}},...n,children:e}))}}});

@@ -1,0 +1,1 @@
+import{Ht as e}from"./Base.types-BZNmOJVT.js";import{n as t}from"./TextField-CLKgT8gf.js";var n=e(),r=({children:e,maxSelectionHeightPx:r=250,...i})=>(0,n.jsx)(t,{MenuProps:{slotProps:{paper:{sx:{maxHeight:r}}}},...i,children:e});export{r as t};

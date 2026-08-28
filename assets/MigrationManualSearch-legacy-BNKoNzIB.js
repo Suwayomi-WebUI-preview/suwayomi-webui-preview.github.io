@@ -1,0 +1,1 @@
+(function(){System.register([`./Base.types-legacy-BxJCajfF.js`,`./index-legacy-DG618hSS.js`,`./SearchAll-legacy-CaYctY9u.js`],function(e,t){var n,r,i,a;return{setters:[function(e){n=e.Ht},function(e){r=e.a},function(e){i=e.SearchAll}],execute:function(){a=n(),e(`MigrationManualSearch`,()=>(0,a.jsx)(i,{migrationDestinationSourceIds:r.getState().destinationSourceIds}))}}})})();
