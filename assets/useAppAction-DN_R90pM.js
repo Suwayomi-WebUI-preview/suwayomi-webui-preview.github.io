@@ -1,1 +1,0 @@
-import{r as e}from"./rolldown-runtime-hePW80VL.js";import{Vt as t}from"./Base.types-BZNmOJVT.js";import{tt as n}from"./ServerSettingsMetadata-DwYhsfi9.js";import{n as r}from"./NavbarContext-DtvFaBS7.js";var i=e(t(),1),a=(e,t=n)=>{let{setAction:a}=r();(0,i.useEffect)(()=>(a(e),()=>a(null)),t)};export{a as t};

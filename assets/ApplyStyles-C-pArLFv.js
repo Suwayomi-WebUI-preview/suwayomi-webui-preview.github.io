@@ -1,1 +1,0 @@
-var e={},t=(t,n)=>t?n:e;export{t};

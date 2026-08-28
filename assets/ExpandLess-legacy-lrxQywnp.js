@@ -1,1 +1,0 @@
-(function(){System.register([`./Base.types-legacy-BxJCajfF.js`],function(e,t){var n,r,i;return{setters:[function(e){n=e.Ht,r=e.o}],execute:function(){i=n(),e(`n`,r((0,i.jsx)(`path`,{d:`M16.59 8.59 12 13.17 7.41 8.59 6 10l6 6 6-6z`}),`ExpandMore`)),e(`t`,r((0,i.jsx)(`path`,{d:`m12 8-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z`}),`ExpandLess`))}}})})();

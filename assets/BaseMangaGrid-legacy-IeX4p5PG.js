@@ -1,1 +1,0 @@
-(function(){System.register([`./Base.types-legacy-BxJCajfF.js`,`./MangaGrid-legacy-BiehcxL5.js`],function(e,t){var n,r,i;function a(e){let{mangas:t}=e;return(0,i.jsx)(r,{gridWrapperProps:{sx:{p:1}},...e,mangas:t})}return e(`t`,a),{setters:[function(e){n=e.Ht},function(e){r=e.n}],execute:function(){i=n()}}})})();

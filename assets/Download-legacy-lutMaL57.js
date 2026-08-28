@@ -1,1 +1,0 @@
-(function(){System.register([`./Base.types-legacy-BxJCajfF.js`],function(e,t){var n,r,i;return{setters:[function(e){n=e.Ht,r=e.o}],execute:function(){i=n(),e(`t`,r((0,i.jsx)(`path`,{d:`M5 20h14v-2H5zM19 9h-4V3H9v6H5l7 7z`}),`Download`))}}})})();

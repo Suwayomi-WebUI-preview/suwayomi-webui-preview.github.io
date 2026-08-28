@@ -1,1 +1,0 @@
-(function(){System.register([`./Base.types-legacy-BxJCajfF.js`],function(e,t){var n,r;function i(e){return r(`MuiDivider`,e)}return e(`n`,i),{setters:[function(e){n=e.U,r=e.W}],execute:function(){e(`t`,n(`MuiDivider`,[`root`,`absolute`,`fullWidth`,`inset`,`middle`,`flexItem`,`vertical`,`withChildren`,`textAlignRight`,`textAlignLeft`,`wrapper`,`wrapperVertical`]))}}})})();

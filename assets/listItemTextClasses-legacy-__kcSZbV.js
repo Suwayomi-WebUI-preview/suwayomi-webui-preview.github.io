@@ -1,1 +1,0 @@
-(function(){System.register([`./Base.types-legacy-BxJCajfF.js`],function(e,t){var n,r;function i(e){return r(`MuiListItemText`,e)}return e(`t`,i),{setters:[function(e){n=e.U,r=e.W}],execute:function(){e(`n`,n(`MuiListItemText`,[`root`,`multiline`,`dense`,`inset`,`primary`,`secondary`]))}}})})();

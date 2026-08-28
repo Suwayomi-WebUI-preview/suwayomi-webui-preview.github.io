@@ -1,1 +1,0 @@
-(function(){System.register([`./Base.types-legacy-BxJCajfF.js`,`./EmptyView-legacy-Cb3c8afv.js`],function(e,t){var n,r,i;function a({sx:e,...t}){return(0,i.jsx)(r,{...t,sx:{position:`absolute`,minHeight:`fill-available`,...e}})}return e(`t`,a),{setters:[function(e){n=e.Ht},function(e){r=e.t}],execute:function(){i=n()}}})})();

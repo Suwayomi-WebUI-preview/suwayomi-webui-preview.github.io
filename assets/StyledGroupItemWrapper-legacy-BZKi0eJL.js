@@ -1,1 +1,0 @@
-(function(){System.register([`./rolldown-runtime-legacy-D-7HM2mt.js`,`./Base.types-legacy-BxJCajfF.js`,`./EmptyView-legacy-Cb3c8afv.js`],function(e,t){var n,r,i,a,o;return{setters:[function(e){n=e.r},function(e){r=e.T,i=e.Vt},function(e){a=e.f}],execute:function(){o=n(i(),1),e(`t`,(0,o.memo)(r(a)(({theme:e})=>({padding:e.spacing(0,1,1,1)}))))}}})})();

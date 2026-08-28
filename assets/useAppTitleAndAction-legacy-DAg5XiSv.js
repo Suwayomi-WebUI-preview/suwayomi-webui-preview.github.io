@@ -1,1 +1,0 @@
-(function(){System.register([`./useAppTitle-legacy-D_pnv2mY.js`,`./useAppAction-legacy-CUgfzwGU.js`],function(e,t){var n,r;return{setters:[function(e){n=e.t},function(e){r=e.t}],execute:function(){e(`t`,(e,t,i)=>{n(e),r(t,i)})}}})})();
