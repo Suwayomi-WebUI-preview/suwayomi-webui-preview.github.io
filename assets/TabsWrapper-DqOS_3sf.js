@@ -1,0 +1,1 @@
+import{Gc as e,ms as t}from"./index-D1A6Em15.js";var n=e(),r=({children:e,...r})=>(0,n.jsx)(t,{...r,sx:{...r.sx,position:`relative`,height:`100%`},children:e});export{r as t};

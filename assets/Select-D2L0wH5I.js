@@ -1,0 +1,1 @@
+import{Gc as e,Y as t}from"./index-D1A6Em15.js";var n=e(),r=({children:e,maxSelectionHeightPx:r=250,...i})=>(0,n.jsx)(t,{MenuProps:{slotProps:{paper:{sx:{maxHeight:r}}}},...i,children:e});export{r as t};
