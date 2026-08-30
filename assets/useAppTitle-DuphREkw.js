@@ -1,1 +1,0 @@
-import{Wc as e,in as t,qc as n}from"./index-DjYVuD90.js";var r=n(e(),1);function i(e,n,i=[e,n]){let{setTitle:a}=t();(0,r.useLayoutEffect)(()=>(typeof n==`string`?a(e,n):a(e),()=>{a(``)}),i)}export{i as t};
