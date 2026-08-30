@@ -1,1 +1,0 @@
-import{Gc as e,Uo as t}from"./index-Bg4auJvb.js";var n=t((0,e().jsx)(`path`,{d:`M5 20h14v-2H5zM19 9h-4V3H9v6H5l7 7z`}),`Download`);export{n as t};
