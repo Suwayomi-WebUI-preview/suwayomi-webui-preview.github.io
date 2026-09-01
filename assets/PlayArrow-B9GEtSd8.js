@@ -1,0 +1,1 @@
+import{Kc as e,Uo as t}from"./index-CHJx-0i9.js";var n=t((0,e().jsx)(`path`,{d:`M8 5v14l11-7z`}),`PlayArrow`);export{n as t};
