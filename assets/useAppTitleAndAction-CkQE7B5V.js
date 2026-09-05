@@ -1,1 +1,0 @@
-import{t as e}from"./useAppTitle-WR_4-4SX.js";import{t}from"./useAppAction-CXkmiNN4.js";var n=(n,r,i)=>{e(n),t(r,i)};export{n as t};

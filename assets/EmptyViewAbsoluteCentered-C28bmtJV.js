@@ -1,1 +1,0 @@
-import{Kc as e,rt as t}from"./index-CHJx-0i9.js";var n=e();function r({sx:e,...r}){return(0,n.jsx)(t,{...r,sx:{position:`absolute`,minHeight:`fill-available`,...e}})}export{r as t};

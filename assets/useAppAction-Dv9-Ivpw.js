@@ -1,0 +1,1 @@
+import{Gc as e,Jc as t,Wn as n,in as r}from"./index-e7-xlHgd.js";var i=t(e(),1),a=(e,t=n)=>{let{setAction:a}=r();(0,i.useEffect)(()=>(a(e),()=>a(null)),t)};export{a as t};

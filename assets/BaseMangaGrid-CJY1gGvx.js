@@ -1,1 +1,0 @@
-import{n as e}from"./MangaGrid-BWzXx_WR.js";import{Kc as t}from"./index-CHJx-0i9.js";var n=t();function r(t){let{mangas:r}=t;return(0,n.jsx)(e,{gridWrapperProps:{sx:{p:1}},...t,mangas:r})}export{r as t};
