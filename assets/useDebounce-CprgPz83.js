@@ -1,1 +1,0 @@
-import{Gc as e,Jc as t}from"./index-e7-xlHgd.js";var n=t(e(),1),r=(e,t)=>{let[r,i]=(0,n.useState)(e);return(0,n.useEffect)(()=>{let n=setTimeout(()=>{i(e)},t);return()=>{clearTimeout(n)}},[e,t]),r};export{r as t};

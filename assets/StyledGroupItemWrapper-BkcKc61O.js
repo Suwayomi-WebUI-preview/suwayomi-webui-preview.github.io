@@ -1,1 +1,0 @@
-import{Gc as e,Hs as t,Jc as n,ms as r}from"./index-e7-xlHgd.js";var i=(0,n(e(),1).memo)(t(r)(({theme:e})=>({padding:e.spacing(0,1,1,1)})));export{i as t};

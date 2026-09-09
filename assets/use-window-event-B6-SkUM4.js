@@ -1,1 +1,0 @@
-import{Gc as e,Jc as t}from"./index-e7-xlHgd.js";var n=t(e(),1);function r(e,t,r){let i=(0,n.useEffectEvent)(t);(0,n.useEffect)(()=>(window.addEventListener(e,i,r),()=>window.removeEventListener(e,i,r)),[e])}export{r as t};
