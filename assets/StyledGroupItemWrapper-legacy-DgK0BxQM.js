@@ -1,0 +1,1 @@
+System.register(["./index-legacy-hdJrSHiE.js"],function(e,t){var n,c,s,i,r;return{setters:[function(e){n=e.Gs,c=e.Jc,s=e.Zc,i=e._s}],execute:function(){r=s(c(),1),e("t",(0,r.memo)(n(i)(({theme:e})=>({padding:e.spacing(0,1,1,1)}))))}}});
