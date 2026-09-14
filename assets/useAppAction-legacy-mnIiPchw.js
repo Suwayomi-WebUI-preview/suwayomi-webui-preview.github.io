@@ -1,0 +1,1 @@
+System.register(["./index-legacy-DXcp3B2C.js"],function(e,t){var n,c,s,i,u;return{setters:[function(e){n=e.Jc,c=e.Wn,s=e.Zc,i=e.in}],execute:function(){u=s(n(),1),e("t",(e,t=c)=>{const{setAction:n}=i();(0,u.useEffect)(()=>(n(e),()=>n(null)),t)})}}});

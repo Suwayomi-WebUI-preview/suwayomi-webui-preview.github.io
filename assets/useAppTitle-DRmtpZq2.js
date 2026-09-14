@@ -1,1 +1,0 @@
-import{Jc as e,Zc as t,in as n}from"./index-BJLKxFwC.js";var r=t(e(),1);function i(e,t,i=[e,t]){let{setTitle:a}=n();(0,r.useLayoutEffect)(()=>(typeof t==`string`?a(e,t):a(e),()=>{a(``)}),i)}export{i as t};

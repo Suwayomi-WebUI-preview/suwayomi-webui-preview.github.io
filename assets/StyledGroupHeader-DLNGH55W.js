@@ -1,0 +1,1 @@
+import{Gs as e,Rt as t,io as n}from"./index-D2RRqkPM.js";var r=e(n,{shouldForwardProp:t([`isFirstItem`])})(({theme:e,isFirstItem:t})=>({paddingLeft:e.spacing(3),paddingTop:e.spacing(.75),paddingBottom:e.spacing(2),fontWeight:`bold`,backgroundColor:e.palette.background.default,[e.breakpoints.down(`sm`)]:{paddingTop:t?e.spacing(1):e.spacing(.75)}}));export{r as t};
