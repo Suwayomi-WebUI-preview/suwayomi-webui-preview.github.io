@@ -1,1 +1,0 @@
-System.register(["./index-legacy-hdJrSHiE.js"],function(t,e){var n,i,s;return t("t",function({sx:t,...e}){return(0,s.jsx)(i,{...e,sx:{position:"absolute",minHeight:"fill-available",...t}})}),{setters:[function(t){n=t.Yc,i=t.rt}],execute:function(){s=n()}}});
