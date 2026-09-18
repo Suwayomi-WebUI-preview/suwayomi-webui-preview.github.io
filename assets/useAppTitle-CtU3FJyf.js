@@ -1,1 +1,0 @@
-import{al as e,an as t,nl as n}from"./index-BGSAquRY.js";var r=e(n(),1);function i(e,n,i=[e,n]){let{setTitle:a}=t();(0,r.useLayoutEffect)(()=>(typeof n==`string`?a(e,n):a(e),()=>{a(``)}),i)}export{i as t};

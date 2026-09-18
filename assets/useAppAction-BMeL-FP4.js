@@ -1,1 +1,0 @@
-import{Gn as e,al as t,an as n,nl as r}from"./index-BGSAquRY.js";var i=t(r(),1),a=(t,r=e)=>{let{setAction:a}=n();(0,i.useEffect)(()=>(a(t),()=>a(null)),r)};export{a as t};

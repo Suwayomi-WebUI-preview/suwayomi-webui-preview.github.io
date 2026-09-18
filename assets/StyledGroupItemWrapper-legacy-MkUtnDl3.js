@@ -1,1 +1,0 @@
-System.register(["./index-legacy-D1t0csWp.js"],function(e,n){var t,s,i,c,r;return{setters:[function(e){t=e.$s,s=e.Ss,i=e.al,c=e.nl}],execute:function(){r=i(c(),1),e("t",(0,r.memo)(t(s)(({theme:e})=>({padding:e.spacing(0,1,1,1)}))))}}});

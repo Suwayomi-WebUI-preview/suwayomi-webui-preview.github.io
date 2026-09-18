@@ -1,1 +1,0 @@
-import{a as e,rl as t}from"./index-BGSAquRY.js";import{SearchAll as n}from"./SearchAll-Du0QxYqx.js";var r=t(),i=()=>(0,r.jsx)(n,{migrationDestinationSourceIds:e.getState().destinationSourceIds});export{i as MigrationManualSearch};

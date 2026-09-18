@@ -1,0 +1,1 @@
+System.register(["./index-legacy-CMJ4oNLU.js"],function(e,t){var i,n,r;return{setters:[function(e){i=e.Ss,n=e.rl}],execute:function(){r=n(),e("t",({children:e,...t})=>(0,r.jsx)(i,{...t,sx:{...t.sx,position:"relative",height:"100%"},children:e}))}}});

@@ -1,0 +1,1 @@
+System.register(["./index-legacy-CMJ4oNLU.js","./SearchAll-legacy-BBf5Mi6r.js"],function(e,t){var n,a,i,r;return{setters:[function(e){n=e.a,a=e.rl},function(e){i=e.SearchAll}],execute:function(){r=a(),e("MigrationManualSearch",()=>(0,r.jsx)(i,{migrationDestinationSourceIds:n.getState().destinationSourceIds}))}}});

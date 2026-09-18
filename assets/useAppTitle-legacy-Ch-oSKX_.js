@@ -1,1 +1,0 @@
-System.register(["./index-legacy-D1t0csWp.js"],function(t,e){var n,s,c,i;return t("t",function(t,e,n=[t,e]){const{setTitle:c}=s();(0,i.useLayoutEffect)(()=>("string"==typeof e?c(t,e):c(t),()=>{c("")}),n)}),{setters:[function(t){n=t.al,s=t.an,c=t.nl}],execute:function(){i=n(c(),1)}}});
