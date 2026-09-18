@@ -1,0 +1,1 @@
+System.register(["./index-legacy-H7-uZDKg.js"],function(e,n){var t,r,h;return{setters:[function(e){t=e.Xo,r=e.nl}],execute:function(){h=r(),e("t",t((0,h.jsx)("path",{d:"M1 21h22L12 2zm12-3h-2v-2h2zm0-4h-2v-4h2z"}),"Warning"))}}});
