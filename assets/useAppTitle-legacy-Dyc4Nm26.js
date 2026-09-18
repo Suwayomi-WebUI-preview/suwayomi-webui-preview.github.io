@@ -1,1 +1,0 @@
-System.register(["./index-legacy-H7-uZDKg.js"],function(t,e){var n,i,s,c;return t("t",function(t,e,i=[t,e]){const{setTitle:s}=n();(0,c.useLayoutEffect)(()=>("string"==typeof e?s(t,e):s(t),()=>{s("")}),i)}),{setters:[function(t){n=t.an,i=t.il,s=t.tl}],execute:function(){c=i(s(),1)}}});

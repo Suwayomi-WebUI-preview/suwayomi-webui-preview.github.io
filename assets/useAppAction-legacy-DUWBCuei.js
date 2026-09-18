@@ -1,1 +1,0 @@
-System.register(["./index-legacy-H7-uZDKg.js"],function(t,e){var n,c,s,i,u;return{setters:[function(t){n=t.Gn,c=t.an,s=t.il,i=t.tl}],execute:function(){u=s(i(),1),t("t",(t,e=n)=>{const{setAction:s}=c();(0,u.useEffect)(()=>(s(t),()=>s(null)),e)})}}});

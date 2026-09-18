@@ -1,0 +1,1 @@
+import{Gn as e,an as t,il as n,tl as r}from"./index-F9RUpDZJ.js";var i=n(r(),1),a=(n,r=e)=>{let{setAction:a}=t();(0,i.useEffect)(()=>(a(n),()=>a(null)),r)};export{a as t};
