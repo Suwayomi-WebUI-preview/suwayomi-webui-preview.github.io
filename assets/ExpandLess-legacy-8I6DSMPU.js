@@ -1,1 +1,0 @@
-System.register(["./index-legacy-B2XKb9--.js"],function(e,n){var t,s,r;return{setters:[function(e){t=e.Xo,s=e.nl}],execute:function(){r=s(),e("n",t((0,r.jsx)("path",{d:"M16.59 8.59 12 13.17 7.41 8.59 6 10l6 6 6-6z"}),"ExpandMore")),e("t",t((0,r.jsx)("path",{d:"m12 8-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z"}),"ExpandLess"))}}});

@@ -1,1 +1,0 @@
-import{Po as e,ao as t,nl as n}from"./index-F9RUpDZJ.js";var r=n(),i=({title:n,value:i,stackProps:a,titleProps:o,valueProps:s})=>(0,r.jsxs)(t,{...a,sx:{flexDirection:`row`,columnGap:1,flexWrap:`wrap`,alignItems:`baseline`,...a?.sx},children:[(0,r.jsx)(e,{...o,sx:{color:`text.secondary`,...o?.sx},children:n}),(0,r.jsx)(e,{...s,children:i})]});export{i as t};

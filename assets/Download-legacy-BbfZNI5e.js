@@ -1,1 +1,0 @@
-System.register(["./index-legacy-B2XKb9--.js"],function(e,t){var n,o,r;return{setters:[function(e){n=e.Xo,o=e.nl}],execute:function(){r=o(),e("t",n((0,r.jsx)("path",{d:"M5 20h14v-2H5zM19 9h-4V3H9v6H5l7 7z"}),"Download"))}}});
