@@ -1,0 +1,1 @@
+System.register(["./index-legacy-DAHaUcNw.js"],function(e,t){var i,n,s;return{setters:[function(e){i=e.Cs,n=e.il}],execute:function(){s=n(),e("t",({children:e,...t})=>(0,s.jsx)(i,{...t,sx:{...t.sx,position:"relative",height:"100%"},children:e}))}}});

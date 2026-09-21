@@ -1,1 +1,0 @@
-System.register(["./index-legacy-CUXeriZp.js"],function(e,t){var n,i,r;return{setters:[function(e){n=e.Y,i=e.il}],execute:function(){r=i(),e("t",({children:e,maxSelectionHeightPx:t=250,...i})=>(0,r.jsx)(n,{MenuProps:{slotProps:{paper:{sx:{maxHeight:t}}}},...i,children:e}))}}});
