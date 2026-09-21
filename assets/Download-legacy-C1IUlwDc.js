@@ -1,0 +1,1 @@
+System.register(["./index-legacy-Cosy08CN.js"],function(e,t){var n,r,o;return{setters:[function(e){n=e.Zo,r=e.rl}],execute:function(){o=r(),e("t",n((0,o.jsx)("path",{d:"M5 20h14v-2H5zM19 9h-4V3H9v6H5l7 7z"}),"Download"))}}});

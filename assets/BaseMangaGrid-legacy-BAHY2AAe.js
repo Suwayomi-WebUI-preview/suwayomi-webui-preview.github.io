@@ -1,1 +1,0 @@
-System.register(["./MangaGrid-legacy-CbkHdByB.js","./index-legacy-CMJ4oNLU.js"],function(n,e){var r,t,s;return n("t",function(n){const{mangas:e}=n;return(0,s.jsx)(r,{gridWrapperProps:{sx:{p:1}},...n,mangas:e})}),{setters:[function(n){r=n.n},function(n){t=n.rl}],execute:function(){s=t()}}});

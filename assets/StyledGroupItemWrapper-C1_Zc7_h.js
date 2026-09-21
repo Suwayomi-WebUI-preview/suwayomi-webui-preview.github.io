@@ -1,0 +1,1 @@
+import{$s as e,Ss as t,al as n,nl as r}from"./index-DnHAmMvr.js";var i=(0,n(r(),1).memo)(e(t)(({theme:e})=>({padding:e.spacing(0,1,1,1)})));export{i as t};
