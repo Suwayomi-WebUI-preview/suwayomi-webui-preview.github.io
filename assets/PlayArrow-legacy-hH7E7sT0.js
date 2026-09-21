@@ -1,1 +1,0 @@
-System.register(["./index-legacy-Cosy08CN.js"],function(e,t){var r,n,s;return{setters:[function(e){r=e.Zo,n=e.rl}],execute:function(){s=n(),e("t",r((0,s.jsx)("path",{d:"M8 5v14l11-7z"}),"PlayArrow"))}}});

@@ -1,0 +1,1 @@
+System.register(["./index-legacy-CUXeriZp.js"],function(e,t){var n,c,s,r,u;return{setters:[function(e){n=e.Gn,c=e.an,s=e.ol,r=e.rl}],execute:function(){u=s(r(),1),e("t",(e,t=n)=>{const{setAction:s}=c();(0,u.useEffect)(()=>(s(e),()=>s(null)),t)})}}});

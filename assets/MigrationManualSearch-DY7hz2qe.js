@@ -1,1 +1,0 @@
-import{a as e,rl as t}from"./index-DnHAmMvr.js";import{SearchAll as n}from"./SearchAll-DYbnQ89o.js";var r=t(),i=()=>(0,r.jsx)(n,{migrationDestinationSourceIds:e.getState().destinationSourceIds});export{i as MigrationManualSearch};
