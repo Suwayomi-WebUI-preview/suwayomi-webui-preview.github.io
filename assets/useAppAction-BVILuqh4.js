@@ -1,0 +1,1 @@
+import{Kn as e,il as t,on as n,sl as r}from"./index-BvOmz-ez.js";var i=r(t(),1),a=(t,r=e)=>{let{setAction:a}=n();(0,i.useEffect)(()=>(a(t),()=>a(null)),r)};export{a as t};

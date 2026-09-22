@@ -1,1 +1,0 @@
-System.register(["./index-legacy-DAHaUcNw.js"],function(e,t){var n,r,i;return{setters:[function(e){n=e.Qo,r=e.il}],execute:function(){i=r(),e("t",n((0,i.jsx)("path",{d:"M8 5v14l11-7z"}),"PlayArrow"))}}});

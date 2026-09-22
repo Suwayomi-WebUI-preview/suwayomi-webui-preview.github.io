@@ -1,1 +1,0 @@
-System.register(["./index-legacy-DAHaUcNw.js"],function(e,t){var n,h,i;return{setters:[function(e){n=e.Qo,h=e.il}],execute:function(){i=h(),e("t",n((0,i.jsx)("path",{d:"M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6z"}),"Add"))}}});

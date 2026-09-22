@@ -1,0 +1,1 @@
+import{al as e,at as t,ws as n}from"./index-BvOmz-ez.js";var r=e(),i=({children:e,...i})=>(0,r.jsx)(n,{...i,sx:t.mergeSx(i.sx,{position:`relative`,height:`100%`}),children:e});export{i as t};

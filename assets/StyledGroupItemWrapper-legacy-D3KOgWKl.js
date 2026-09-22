@@ -1,1 +1,0 @@
-System.register(["./index-legacy-DAHaUcNw.js"],function(e,t){var n,c,i,r,s;return{setters:[function(e){n=e.Cs,c=e.ec,i=e.ol,r=e.rl}],execute:function(){s=i(r(),1),e("t",(0,s.memo)(c(n)(({theme:e})=>({padding:e.spacing(0,1,1,1)}))))}}});

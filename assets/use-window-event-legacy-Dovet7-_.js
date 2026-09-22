@@ -1,1 +1,0 @@
-System.register(["./index-legacy-DAHaUcNw.js"],function(e,t){var n,i,r;return e("t",function(e,t,n){const i=(0,r.useEffectEvent)(t);(0,r.useEffect)(()=>(window.addEventListener(e,i,n),()=>window.removeEventListener(e,i,n)),[e])}),{setters:[function(e){n=e.ol,i=e.rl}],execute:function(){r=n(i(),1)}}});

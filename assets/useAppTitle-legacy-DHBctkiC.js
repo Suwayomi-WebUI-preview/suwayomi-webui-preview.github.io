@@ -1,1 +1,0 @@
-System.register(["./index-legacy-DAHaUcNw.js"],function(t,e){var n,s,c,i;return t("t",function(t,e,s=[t,e]){const{setTitle:c}=n();(0,i.useLayoutEffect)(()=>("string"==typeof e?c(t,e):c(t),()=>{c("")}),s)}),{setters:[function(t){n=t.an,s=t.ol,c=t.rl}],execute:function(){i=s(c(),1)}}});
