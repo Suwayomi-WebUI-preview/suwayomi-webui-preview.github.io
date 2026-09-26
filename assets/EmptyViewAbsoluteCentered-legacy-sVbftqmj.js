@@ -1,1 +1,0 @@
-System.register(["./index-legacy-Ba5SOyyA.js"],function(e,t){var i,n,s,r;return e("t",function({sx:e,...t}){return(0,r.jsx)(s,{...t,sx:n.mergeSx({position:"absolute",minHeight:"fill-available"},e)})}),{setters:[function(e){i=e.al,n=e.at,s=e.it}],execute:function(){r=i()}}});

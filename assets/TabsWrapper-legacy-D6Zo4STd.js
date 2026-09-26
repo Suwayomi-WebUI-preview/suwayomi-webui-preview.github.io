@@ -1,0 +1,1 @@
+System.register(["./index-legacy-DX0Ap6y6.js"],function(e,t){var i,n,r,s;return{setters:[function(e){i=e.Ts,n=e.ol,r=e.ot}],execute:function(){s=n(),e("t",({children:e,...t})=>(0,s.jsx)(i,{...t,sx:r.mergeSx(t.sx,{position:"relative",height:"100%"}),children:e}))}}});

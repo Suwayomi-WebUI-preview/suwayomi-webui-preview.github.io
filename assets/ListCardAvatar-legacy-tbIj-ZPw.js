@@ -1,1 +1,0 @@
-System.register(["./index-legacy-Ba5SOyyA.js","./AvatarSpinner-legacy-CtmTpkki.js"],function(t,a){var r,s,e;return{setters:[function(t){r=t.al},function(t){s=t.t}],execute:function(){e=r(),t("t",t=>{const{slots:a}=t;return(0,e.jsx)(s,{...t,slots:{...a,avatarProps:{...a?.avatarProps,sx:{width:56,height:56,flex:"0 0 auto",background:"transparent",...a?.avatarProps?.sx}}}})})}}});

@@ -1,1 +1,0 @@
-import{il as e,sl as t,tc as n,ws as r}from"./index-BvOmz-ez.js";var i=(0,t(e(),1).memo)(n(r)(({theme:e})=>({padding:e.spacing(0,1,1,1)})));export{i as t};

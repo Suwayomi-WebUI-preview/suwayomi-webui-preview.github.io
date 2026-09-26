@@ -1,1 +1,0 @@
-System.register(["./index-legacy-Ba5SOyyA.js"],function(e,t){var n,o,r;return{setters:[function(e){n=e.$o,o=e.al}],execute:function(){r=o(),e("t",n((0,r.jsx)("path",{d:"M5 20h14v-2H5zM19 9h-4V3H9v6H5l7 7z"}),"Download"))}}});

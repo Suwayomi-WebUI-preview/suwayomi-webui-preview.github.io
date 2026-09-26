@@ -1,1 +1,0 @@
-System.register(["./index-legacy-Ba5SOyyA.js"],function(e,t){var n,r,h;return{setters:[function(e){n=e.$o,r=e.al}],execute:function(){h=r(),e("t",n((0,h.jsx)("path",{d:"M1 21h22L12 2zm12-3h-2v-2h2zm0-4h-2v-4h2z"}),"Warning"))}}});
