@@ -1,1 +1,0 @@
-System.register(["./index-legacy-DR6kiT62.js"],function(e,t){var n,i,s,o;return e("t",function({sx:e,...t}){return(0,o.jsx)(n,{...t,sx:s.mergeSx({position:"absolute",minHeight:"fill-available"},e)})}),{setters:[function(e){n=e.at,i=e.ol,s=e.ot}],execute:function(){o=i()}}});
