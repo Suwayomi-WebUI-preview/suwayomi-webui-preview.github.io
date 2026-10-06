@@ -1,1 +1,0 @@
-System.register(["./index-legacy-QBWKQml4.js"],function(e,t){var n,s,i;return{setters:[function(e){n=e.es,s=e.ol}],execute:function(){i=s(),e("t",n((0,i.jsx)("path",{d:"M10 18h4v-2h-4zM3 6v2h18V6zm3 7h12v-2H6z"}),"FilterList"))}}});
