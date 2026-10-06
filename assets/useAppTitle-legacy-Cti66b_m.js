@@ -1,1 +1,0 @@
-System.register(["./index-legacy-BKZZ6PLz.js"],function(t,e){var n,s,c,i;return t("t",function(t,e,n=[t,e]){const{setTitle:s}=c();(0,i.useLayoutEffect)(()=>("string"==typeof e?s(t,e):s(t),()=>{s("")}),n)}),{setters:[function(t){n=t.al,s=t.cl,c=t.sn}],execute:function(){i=s(n(),1)}}});
