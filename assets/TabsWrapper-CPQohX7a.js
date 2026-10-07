@@ -1,1 +1,0 @@
-import{Ts as e,ol as t,ot as n}from"./index-BftZBbAb.js";var r=t(),i=({children:t,...i})=>(0,r.jsx)(e,{...i,sx:n.mergeSx(i.sx,{position:`relative`,height:`100%`}),children:t});export{i as t};
