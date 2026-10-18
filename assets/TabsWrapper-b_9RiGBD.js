@@ -1,1 +1,0 @@
-import{Ds as e,cl as t,it as n}from"./index-UnhwX9w_.js";var r=t(),i=({children:t,...i})=>(0,r.jsx)(e,{...i,sx:n.mergeSx(i.sx,{position:`relative`,height:`100%`}),children:t});export{i as t};
