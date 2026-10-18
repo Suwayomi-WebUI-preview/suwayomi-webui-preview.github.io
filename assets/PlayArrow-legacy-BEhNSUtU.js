@@ -1,0 +1,1 @@
+System.register(["./index-legacy-CbAZSSuC.js"],function(e,t){var n,r,s;return{setters:[function(e){n=e.cl,r=e.ns}],execute:function(){s=n(),e("t",r((0,s.jsx)("path",{d:"M8 5v14l11-7z"}),"PlayArrow"))}}});

@@ -1,1 +1,0 @@
-import{cl as e,ns as t}from"./index-BqM53fY6.js";var n=t((0,e().jsx)(`path`,{d:`M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2m0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2m0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2`}),`MoreVert`);export{n as t};
