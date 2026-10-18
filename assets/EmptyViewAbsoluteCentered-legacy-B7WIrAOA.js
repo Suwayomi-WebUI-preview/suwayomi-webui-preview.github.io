@@ -1,1 +1,0 @@
-System.register(["./index-legacy-DCHhHzLZ.js"],function(t,e){var n,i,s,r;return t("t",function({sx:t,...e}){return(0,r.jsx)(s,{...e,sx:i.mergeSx({position:"absolute",minHeight:"fill-available"},t)})}),{setters:[function(t){n=t.al,i=t.nt,s=t.tt}],execute:function(){r=n()}}});

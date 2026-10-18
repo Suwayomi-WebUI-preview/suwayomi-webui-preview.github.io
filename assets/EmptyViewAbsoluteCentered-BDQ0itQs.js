@@ -1,0 +1,1 @@
+import{it as e,rt as t,sl as n}from"./index-BxnObaBM.js";var r=n();function i({sx:n,...i}){return(0,r.jsx)(t,{...i,sx:e.mergeSx({position:`absolute`,minHeight:`fill-available`},n)})}export{i as t};

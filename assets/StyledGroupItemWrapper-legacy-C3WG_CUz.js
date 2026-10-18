@@ -1,0 +1,1 @@
+System.register(["./index-legacy-BaAU-KNO.js"],function(e,t){var n,i,c,s,r;return{setters:[function(e){n=e.Ds,i=e.ic,c=e.ll,s=e.ol}],execute:function(){r=c(s(),1),e("t",(0,r.memo)(i(n)(({theme:e})=>({padding:e.spacing(0,1,1,1)}))))}}});
