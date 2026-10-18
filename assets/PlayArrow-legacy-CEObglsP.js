@@ -1,1 +1,0 @@
-System.register(["./index-legacy-BaAU-KNO.js"],function(e,t){var n,r,s;return{setters:[function(e){n=e.ns,r=e.sl}],execute:function(){s=r(),e("t",n((0,s.jsx)("path",{d:"M8 5v14l11-7z"}),"PlayArrow"))}}});

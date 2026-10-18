@@ -1,0 +1,1 @@
+import{gs as e}from"./index-BqM53fY6.js";var t=(e,t)=>e===0?t:e??t,n=(t,n,r,i)=>{let[a,o]=e(t,n);return[i(r,a),o]};export{n,t};

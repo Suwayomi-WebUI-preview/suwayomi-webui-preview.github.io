@@ -1,1 +1,0 @@
-System.register(["./index-legacy-BaAU-KNO.js"],function(e,t){var i,n,s,r;return{setters:[function(e){i=e.Ds,n=e.it,s=e.sl}],execute:function(){r=s(),e("t",({children:e,...t})=>(0,r.jsx)(i,{...t,sx:n.mergeSx(t.sx,{position:"relative",height:"100%"}),children:e}))}}});

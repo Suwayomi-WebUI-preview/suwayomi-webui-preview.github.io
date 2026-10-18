@@ -1,1 +1,0 @@
-System.register(["./useAppTitle-legacy-BKdY045u.js","./useAppAction-legacy-zS1WTnlC.js"],function(t,e){var n,c;return{setters:[function(t){n=t.t},function(t){c=t.t}],execute:function(){t("t",(t,e,s)=>{n(t),c(e,s)})}}});

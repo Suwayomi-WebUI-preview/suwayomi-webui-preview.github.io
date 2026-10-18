@@ -1,1 +1,0 @@
-System.register(["./index-legacy-BaAU-KNO.js"],function(e,n){var t,s,r;return{setters:[function(e){t=e.ns,s=e.sl}],execute:function(){r=s(),e("t",t((0,r.jsx)("path",{d:"M1 21h22L12 2zm12-3h-2v-2h2zm0-4h-2v-4h2z"}),"Warning"))}}});
