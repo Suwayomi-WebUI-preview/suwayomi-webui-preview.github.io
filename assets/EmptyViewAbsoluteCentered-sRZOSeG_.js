@@ -1,1 +1,0 @@
-import{al as e,nt as t,tt as n}from"./index-CSmxvLon.js";var r=e();function i({sx:e,...i}){return(0,r.jsx)(n,{...i,sx:t.mergeSx({position:`absolute`,minHeight:`fill-available`},e)})}export{i as t};
