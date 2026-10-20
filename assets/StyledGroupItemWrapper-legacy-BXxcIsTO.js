@@ -1,0 +1,1 @@
+System.register(["./index-legacy-ChASeHS_.js"],function(e,t){var n,s,c,i,r;return{setters:[function(e){n=e.Ds,s=e.ac,c=e.sl,i=e.ul}],execute:function(){r=i(c(),1),e("t",(0,r.memo)(s(n)(({theme:e})=>({padding:e.spacing(0,1,1,1)}))))}}});
