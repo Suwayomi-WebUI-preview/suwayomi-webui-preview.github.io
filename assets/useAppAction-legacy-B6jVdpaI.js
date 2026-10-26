@@ -1,1 +1,0 @@
-System.register(["./index-legacy-ChASeHS_.js"],function(e,t){var n,s,c,u,i;return{setters:[function(e){n=e.Gn,s=e.an,c=e.sl,u=e.ul}],execute:function(){i=u(c(),1),e("t",(e,t=n)=>{const{setAction:c}=s();(0,i.useEffect)(()=>(c(e),()=>c(null)),t)})}}});
