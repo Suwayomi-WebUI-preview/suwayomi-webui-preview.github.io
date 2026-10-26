@@ -1,0 +1,1 @@
+System.register(["./index-legacy-CJmKlHKf.js"],function(t,e){var n,s,u,c;return t("t",function(t,e,s=[t,e]){const{setTitle:u}=n();(0,c.useLayoutEffect)(()=>("string"==typeof e?u(t,e):u(t),()=>{u("")}),s)}),{setters:[function(t){n=t.an,s=t.sl,u=t.ul}],execute:function(){c=u(s(),1)}}});
