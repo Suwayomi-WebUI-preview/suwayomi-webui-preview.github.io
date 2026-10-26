@@ -1,0 +1,1 @@
+System.register(["./index-legacy-D8p4HXV8.js"],function(e,t){var i,n,r,s;return e("t",function({sx:e,...t}){return(0,s.jsx)(r,{...t,sx:n.mergeSx({position:"absolute",minHeight:"fill-available"},e)})}),{setters:[function(e){i=e.cl,n=e.it,r=e.rt}],execute:function(){s=i()}}});

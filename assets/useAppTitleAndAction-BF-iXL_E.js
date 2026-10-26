@@ -1,0 +1,1 @@
+import{t as e}from"./useAppTitle-Db84PTyX.js";import{t}from"./useAppAction-Ba8nH2rv.js";var n=(n,r,i)=>{e(n),t(r,i)};export{n as t};
