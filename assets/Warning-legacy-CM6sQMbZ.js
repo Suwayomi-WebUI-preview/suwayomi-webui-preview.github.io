@@ -1,0 +1,1 @@
+System.register(["./index-legacy-ydLgKqa5.js"],function(e,n){var t,r,s;return{setters:[function(e){t=e.cl,r=e.ns}],execute:function(){s=t(),e("t",r((0,s.jsx)("path",{d:"M1 21h22L12 2zm12-3h-2v-2h2zm0-4h-2v-4h2z"}),"Warning"))}}});
