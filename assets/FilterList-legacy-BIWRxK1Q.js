@@ -1,0 +1,1 @@
+System.register(["./index-legacy-C61guWnB.js"],function(t,e){var n,r,s;return{setters:[function(t){n=t.ll,r=t.rs}],execute:function(){s=n(),t("t",r((0,s.jsx)("path",{d:"M10 18h4v-2h-4zM3 6v2h18V6zm3 7h12v-2H6z"}),"FilterList"))}}});

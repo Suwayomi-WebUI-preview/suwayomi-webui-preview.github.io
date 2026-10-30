@@ -1,0 +1,1 @@
+System.register(["./index-legacy-C61guWnB.js"],function(t,e){var n,c,s,i;return t("t",function(t,e,c=[t,e]){const{setTitle:s}=n();(0,i.useLayoutEffect)(()=>("string"==typeof e?s(t,e):s(t),()=>{s("")}),c)}),{setters:[function(t){n=t.an,c=t.cl,s=t.dl}],execute:function(){i=s(c(),1)}}});

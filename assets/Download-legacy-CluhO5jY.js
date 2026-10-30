@@ -1,0 +1,1 @@
+System.register(["./index-legacy-C61guWnB.js"],function(e,t){var n,r,s;return{setters:[function(e){n=e.ll,r=e.rs}],execute:function(){s=n(),e("t",r((0,s.jsx)("path",{d:"M5 20h14v-2H5zM19 9h-4V3H9v6H5l7 7z"}),"Download"))}}});
