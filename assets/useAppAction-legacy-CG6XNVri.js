@@ -1,1 +1,0 @@
-System.register(["./index-legacy-C61guWnB.js"],function(e,t){var n,c,s,u,i;return{setters:[function(e){n=e.Gn,c=e.an,s=e.cl,u=e.dl}],execute:function(){i=u(s(),1),e("t",(e,t=n)=>{const{setAction:s}=c();(0,i.useEffect)(()=>(s(e),()=>s(null)),t)})}}});

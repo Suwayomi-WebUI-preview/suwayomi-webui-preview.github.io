@@ -1,1 +1,0 @@
-System.register(["./index-legacy-C61guWnB.js"],function(e,t){var r,n,s;return{setters:[function(e){r=e.ll,n=e.rs}],execute:function(){s=r(),e("t",n((0,s.jsx)("path",{d:"M8 5v14l11-7z"}),"PlayArrow"))}}});

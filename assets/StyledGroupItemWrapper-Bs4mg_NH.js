@@ -1,1 +1,0 @@
-import{Os as e,cl as t,dl as n,oc as r}from"./index-DIrOIE8a.js";var i=(0,n(t(),1).memo)(r(e)(({theme:e})=>({padding:e.spacing(0,1,1,1)})));export{i as t};

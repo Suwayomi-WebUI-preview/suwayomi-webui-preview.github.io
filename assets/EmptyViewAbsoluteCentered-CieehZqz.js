@@ -1,1 +1,0 @@
-import{it as e,ll as t,rt as n}from"./index-DIrOIE8a.js";var r=t();function i({sx:t,...i}){return(0,r.jsx)(n,{...i,sx:e.mergeSx({position:`absolute`,minHeight:`fill-available`},t)})}export{i as t};

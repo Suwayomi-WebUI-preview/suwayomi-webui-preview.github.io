@@ -1,0 +1,1 @@
+import{Es as e,cl as t,dl as n,ic as r}from"./index-87smLq5g.js";var i=(0,n(t(),1).memo)(r(e)(({theme:e})=>({padding:e.spacing(0,1,1,1)})));export{i as t};

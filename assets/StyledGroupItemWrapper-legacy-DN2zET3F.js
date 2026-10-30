@@ -1,1 +1,0 @@
-System.register(["./index-legacy-C61guWnB.js"],function(e,t){var n,c,i,s,r;return{setters:[function(e){n=e.Os,c=e.cl,i=e.dl,s=e.oc}],execute:function(){r=i(c(),1),e("t",(0,r.memo)(s(n)(({theme:e})=>({padding:e.spacing(0,1,1,1)}))))}}});

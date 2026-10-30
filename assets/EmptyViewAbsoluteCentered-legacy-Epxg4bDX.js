@@ -1,1 +1,0 @@
-System.register(["./index-legacy-C61guWnB.js"],function(e,t){var i,n,r,s;return e("t",function({sx:e,...t}){return(0,s.jsx)(r,{...t,sx:i.mergeSx({position:"absolute",minHeight:"fill-available"},e)})}),{setters:[function(e){i=e.it,n=e.ll,r=e.rt}],execute:function(){s=n()}}});

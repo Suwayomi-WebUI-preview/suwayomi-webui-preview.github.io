@@ -1,0 +1,1 @@
+System.register(["./index-legacy-qFF4r2nA.js"],function(t,e){var n,s,r;return{setters:[function(t){n=t.ll,s=t.ts}],execute:function(){r=n(),t("t",s((0,r.jsx)("path",{d:"M5 20h14v-2H5zM19 9h-4V3H9v6H5l7 7z"}),"Download"))}}});
