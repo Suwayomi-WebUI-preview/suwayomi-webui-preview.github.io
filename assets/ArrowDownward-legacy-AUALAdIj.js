@@ -1,1 +1,0 @@
-System.register(["./index-legacy-qFF4r2nA.js"],function(t,r){var e,n,s;return{setters:[function(t){e=t.ll,n=t.ts}],execute:function(){s=e(),t("n",n((0,s.jsx)("path",{d:"m4 12 1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8z"}),"ArrowUpward")),t("t",n((0,s.jsx)("path",{d:"m20 12-1.41-1.41L13 16.17V4h-2v12.17l-5.58-5.59L4 12l8 8z"}),"ArrowDownward"))}}});

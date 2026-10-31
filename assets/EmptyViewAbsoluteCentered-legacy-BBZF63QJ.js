@@ -1,0 +1,1 @@
+System.register(["./index-legacy-DtZ0ZVz0.js"],function(e,t){var i,n,r,s;return e("t",function({sx:e,...t}){return(0,s.jsx)(n,{...t,sx:i.mergeSx({position:"absolute",minHeight:"fill-available"},e)})}),{setters:[function(e){i=e.it,n=e.rt,r=e.ul}],execute:function(){s=r()}}});

@@ -1,0 +1,1 @@
+System.register(["./index-legacy-DtZ0ZVz0.js"],function(t,e){var n,s,c,f;return t("t",function(t,e,s=[t,e]){const{setTitle:c}=n();(0,f.useLayoutEffect)(()=>("string"==typeof e?c(t,e):c(t),()=>{c("")}),s)}),{setters:[function(t){n=t.an,s=t.fl,c=t.ll}],execute:function(){f=s(c(),1)}}});

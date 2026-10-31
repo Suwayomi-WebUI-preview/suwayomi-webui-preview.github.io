@@ -1,0 +1,1 @@
+System.register(["./index-legacy-DtZ0ZVz0.js"],function(e,t){var n,r,i;return{setters:[function(e){n=e.J,r=e.ul}],execute:function(){i=r(),e("t",({children:e,maxSelectionHeightPx:t=250,...r})=>(0,i.jsx)(n,{MenuProps:{slotProps:{paper:{sx:{maxHeight:t}}}},...r,children:e}))}}});

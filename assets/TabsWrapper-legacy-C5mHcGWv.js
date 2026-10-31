@@ -1,1 +1,0 @@
-System.register(["./index-legacy-qFF4r2nA.js"],function(e,t){var i,n,r,s;return{setters:[function(e){i=e.Es,n=e.ll,r=e.rt}],execute:function(){s=n(),e("t",({children:e,...t})=>(0,s.jsx)(i,{...t,sx:r.mergeSx(t.sx,{position:"relative",height:"100%"}),children:e}))}}});

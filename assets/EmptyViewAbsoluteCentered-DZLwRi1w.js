@@ -1,1 +1,0 @@
-import{ll as e,nt as t,rt as n}from"./index-87smLq5g.js";var r=e();function i({sx:e,...i}){return(0,r.jsx)(t,{...i,sx:n.mergeSx({position:`absolute`,minHeight:`fill-available`},e)})}export{i as t};

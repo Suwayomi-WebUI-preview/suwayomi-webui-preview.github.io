@@ -1,0 +1,1 @@
+import{Ds as e,it as t,ul as n}from"./index-CiAPnbv0.js";var r=n(),i=({children:n,...i})=>(0,r.jsx)(e,{...i,sx:t.mergeSx(i.sx,{position:`relative`,height:`100%`}),children:n});export{i as t};

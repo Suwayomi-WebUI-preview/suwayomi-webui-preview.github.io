@@ -1,0 +1,1 @@
+import{it as e,rt as t,ul as n}from"./index-CiAPnbv0.js";var r=n();function i({sx:n,...i}){return(0,r.jsx)(t,{...i,sx:e.mergeSx({position:`absolute`,minHeight:`fill-available`},n)})}export{i as t};

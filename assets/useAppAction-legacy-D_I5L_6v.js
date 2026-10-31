@@ -1,1 +1,0 @@
-System.register(["./index-legacy-qFF4r2nA.js"],function(e,t){var n,c,s,i,u;return{setters:[function(e){n=e.Wn,c=e.cl,s=e.dl,i=e.in}],execute:function(){u=s(c(),1),e("t",(e,t=n)=>{const{setAction:c}=i();(0,u.useEffect)(()=>(c(e),()=>c(null)),t)})}}});
