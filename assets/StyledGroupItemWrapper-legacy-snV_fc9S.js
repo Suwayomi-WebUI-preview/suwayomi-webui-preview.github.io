@@ -1,1 +1,0 @@
-System.register(["./index-legacy-DYbMGVDH.js"],function(e,t){var n,c,i,s,r;return{setters:[function(e){n=e.Ds,c=e.ac,i=e.fl,s=e.ll}],execute:function(){r=i(s(),1),e("t",(0,r.memo)(c(n)(({theme:e})=>({padding:e.spacing(0,1,1,1)}))))}}});

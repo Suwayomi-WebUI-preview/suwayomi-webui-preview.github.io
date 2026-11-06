@@ -1,1 +1,0 @@
-System.register(["./index-legacy-DYbMGVDH.js"],function(e,t){var n,c,s,u,f;return{setters:[function(e){n=e.Gn,c=e.an,s=e.fl,u=e.ll}],execute:function(){f=s(u(),1),e("t",(e,t=n)=>{const{setAction:s}=c();(0,f.useEffect)(()=>(s(e),()=>s(null)),t)})}}});
