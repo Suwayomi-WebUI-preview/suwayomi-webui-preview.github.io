@@ -1,1 +1,0 @@
-import{ul as e}from"./index-Cb56bDnH.js";import{t}from"./AvatarSpinner-aKBrdUUl.js";var n=e(),r=e=>{let{slots:r}=e;return(0,n.jsx)(t,{...e,slots:{...r,avatarProps:{...r?.avatarProps,sx:{width:56,height:56,flex:`0 0 auto`,background:`transparent`,...r?.avatarProps?.sx}}}})};export{r as t};
