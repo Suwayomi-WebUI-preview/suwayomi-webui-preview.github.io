@@ -1,0 +1,1 @@
+import{C as e,Ia as t,ul as n,zo as r}from"./index-DY_MK2Ec.js";var i=n(),a=({title:n,value:a,stackProps:o,titleProps:s,valueProps:c})=>(0,i.jsxs)(t,{...o,sx:e.mergeSx({flexDirection:`row`,columnGap:1,flexWrap:`wrap`,alignItems:`baseline`},o?.sx),children:[(0,i.jsx)(r,{...s,sx:e.mergeSx({color:`text.secondary`},s?.sx),children:n}),(0,i.jsx)(r,{...c,children:a})]});export{a as t};
