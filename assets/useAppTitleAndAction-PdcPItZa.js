@@ -1,0 +1,1 @@
+import{t as e}from"./useAppTitle-CkDdGXl_.js";import{t}from"./useAppAction-7luG_Ie3.js";var n=(n,r,i)=>{e(n),t(r,i)};export{n as t};

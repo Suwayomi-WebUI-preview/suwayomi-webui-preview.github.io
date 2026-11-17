@@ -1,1 +1,0 @@
-import{ts as e,ul as t}from"./index-DY_MK2Ec.js";var n=e((0,t().jsx)(`path`,{d:`M8 5v14l11-7z`}),`PlayArrow`);export{n as t};

@@ -1,0 +1,1 @@
+System.register(["./index-legacy-DF4eptjJ.js"],function(e,t){var n,i,s,r;return e("t",function({sx:e,...t}){return(0,r.jsx)(i,{...t,sx:n.mergeSx({position:"absolute",minHeight:"fill-available"},e)})}),{setters:[function(e){n=e.C,i=e.S,s=e.ul}],execute:function(){r=s()}}});

@@ -1,1 +1,0 @@
-System.register(["./index-legacy-CJI4xd1z.js"],function(t,e){var n,s,c,f;return t("t",function(t,e,s=[t,e]){const{setTitle:c}=n();(0,f.useLayoutEffect)(()=>("string"==typeof e?c(t,e):c(t),()=>{c("")}),s)}),{setters:[function(t){n=t.St,s=t.fl,c=t.ll}],execute:function(){f=s(c(),1)}}});

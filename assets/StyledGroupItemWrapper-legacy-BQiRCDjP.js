@@ -1,1 +1,0 @@
-System.register(["./index-legacy-CJI4xd1z.js"],function(e,t){var n,i,c,s,r;return{setters:[function(e){n=e.Es,i=e.fl,c=e.ic,s=e.ll}],execute:function(){r=i(s(),1),e("t",(0,r.memo)(c(n)(({theme:e})=>({padding:e.spacing(0,1,1,1)}))))}}});

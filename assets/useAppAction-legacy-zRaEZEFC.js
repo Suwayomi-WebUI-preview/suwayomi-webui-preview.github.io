@@ -1,0 +1,1 @@
+System.register(["./index-legacy-DF4eptjJ.js"],function(t,e){var n,c,s,u,f;return{setters:[function(t){n=t.It,c=t.St,s=t.fl,u=t.ll}],execute:function(){f=s(u(),1),t("t",(t,e=n)=>{const{setAction:s}=c();(0,f.useEffect)(()=>(s(t),()=>s(null)),e)})}}});

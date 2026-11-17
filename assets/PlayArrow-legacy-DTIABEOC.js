@@ -1,1 +1,0 @@
-System.register(["./index-legacy-CJI4xd1z.js"],function(t,e){var n,r,s;return{setters:[function(t){n=t.ts,r=t.ul}],execute:function(){s=r(),t("t",n((0,s.jsx)("path",{d:"M8 5v14l11-7z"}),"PlayArrow"))}}});
